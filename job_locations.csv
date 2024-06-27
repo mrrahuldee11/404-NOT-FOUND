@@ -1,0 +1,6 @@
+job_location_id,location,required_skill_set,duration,health_safety_requirements,language_requirements,team_composition,environmental_conditions,project_urgency,budget,lat,lon
+101,Los Angeles,Electrical,3 Months,Standard,English,Team A,Indoor,High,10000,34.0522,-118.2437
+102,New York,Plumbing,2 Months,High,English,Team B,Outdoor,Medium,8000,40.7128,-74.0060
+103,Chicago,Carpentry,1 Month,Standard,English,Team C,Indoor,Low,5000,41.8781,-87.6298
+104,Houston,Welding,4 Months,High,Spanish,Team D,Outdoor,High,12000,29.7604,-95.3698
+105,San Francisco,Electrical,2 Months,Standard,English,Team E,Indoor,Medium,9000,37.7749,-122.4194

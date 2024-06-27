@@ -1,0 +1,6 @@
+worker_id,name,skill_set,experience_level,availability,lat,lon,health_status,language_proficiency,past_performance,training,preferred_work_conditions,wage_rate
+1,John Doe,Electrical,5,Available,34.0522,-118.2437,Good,English,95,Completed,Indoor,25
+2,Jane Smith,Plumbing,3,Unavailable,40.7128,-74.0060,Good,English,90,Completed,Outdoor,30
+3,Bob Johnson,Carpentry,7,Available,41.8781,-87.6298,Good,English,85,Completed,Indoor,28
+4,Emily Davis,Welding,2,Available,34.0522,-118.2437,Fair,Spanish,88,In Progress,Outdoor,35
+5,Michael Brown,Electrical,4,Unavailable,29.7604,-95.3698,Good,English,92,Completed,Indoor,26
