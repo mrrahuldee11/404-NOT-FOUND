@@ -1,5 +1,9 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { ColorSchemeScript } from "@mantine/core";
+import { Providers } from "./providers";
+import { BasicAppShell } from "../components/BasicAppShell";
+// import AppShellComp from "@/components/AppShellComp";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +15,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <head>
+        <ColorSchemeScript />
+      </head>
+      <body className={inter.className}>
+        <Providers>
+          <BasicAppShell children={children}/>
+        </Providers>
+      </body>
     </html>
   );
 }

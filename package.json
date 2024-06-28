@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/core": "^7.11.0",
+    "@mantine/dropzone": "^7.11.0",
+    "@mantine/hooks": "^7.11.0",
+    "@mantine/next": "^6.0.21",
+    "@tabler/icons-react": "^3.7.0",
+    "next": "14.2.4",
+    "ol": "^9.2.4",
+    "ol-ext": "^4.0.18",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",
