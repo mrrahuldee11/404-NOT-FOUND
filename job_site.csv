@@ -1,0 +1,11 @@
+job_site,skill_days_dict,safety_requirements,percentage_work_done
+A,Plumbing: 9; Electrical: 16; Carpentry: 59; Painting: 55; Landscaping: 10; HVAC: 63; Roofing: 1; Drywall: 91; Flooring: 92; Heavy Machinery Operation: 3,low,60.10
+B,Plumbing: 85; Electrical: 58; Carpentry: 76; Painting: 69; Landscaping: 11; HVAC: 49; Roofing: 91; Drywall: 69; Flooring: 2; Heavy Machinery Operation: 44,high,44.60
+C,Plumbing: 98; Electrical: 28; Carpentry: 8; Painting: 47; Landscaping: 2; HVAC: 4; Roofing: 30; Drywall: 99; Flooring: 67; Heavy Machinery Operation: 21,high,59.60
+D,Plumbing: 96; Electrical: 53; Carpentry: 1; Painting: 26; Landscaping: 78; HVAC: 93; Roofing: 24; Drywall: 10; Flooring: 87; Heavy Machinery Operation: 95,low,43.70
+E,Plumbing: 22; Electrical: 99; Carpentry: 65; Painting: 75; Landscaping: 78; HVAC: 5; Roofing: 93; Drywall: 20; Flooring: 100; Heavy Machinery Operation: 38,med,40.50
+F,Plumbing: 72; Electrical: 69; Carpentry: 6; Painting: 4; Landscaping: 27; HVAC: 90; Roofing: 78; Drywall: 66; Flooring: 43; Heavy Machinery Operation: 8,low,53.70
+G,Plumbing: 7; Electrical: 85; Carpentry: 65; Painting: 93; Landscaping: 4; HVAC: 92; Roofing: 77; Drywall: 75; Flooring: 29; Heavy Machinery Operation: 30,low,44.30
+H,Plumbing: 62; Electrical: 42; Carpentry: 57; Painting: 10; Landscaping: 84; HVAC: 89; Roofing: 40; Drywall: 63; Flooring: 96; Heavy Machinery Operation: 55,high,40.20
+I,Plumbing: 49; Electrical: 89; Carpentry: 57; Painting: 90; Landscaping: 97; HVAC: 75; Roofing: 80; Drywall: 88; Flooring: 94; Heavy Machinery Operation: 20,high,26.10
+J,Plumbing: 4; Electrical: 62; Carpentry: 80; Painting: 70; Landscaping: 46; HVAC: 27; Roofing: 56; Drywall: 17; Flooring: 97; Heavy Machinery Operation: 58,med,48.30
