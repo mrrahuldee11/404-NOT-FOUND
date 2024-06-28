@@ -1,0 +1,1000 @@
+worker_id,name,skill_set,experience_level,availability,health_status,past_performance,productivity_score,job_site
+2,Jose Harmon,Heavy Machinery Operation,Advanced,Available,Minor Issues,6,5.76,NULL
+3,Kathleen Fields,Roofing,Intermediate,Available,Minor Issues,5,4.0,NULL
+6,Crystal Green,Painting,Advanced,Available,Major Issues,8,4.8,E
+7,Ryan Parks,Heavy Machinery Operation,Advanced,Available,Minor Issues,9,8.64,NULL
+12,Kelly Scott,Painting,Beginner,Available,Minor Issues,8,5.12,NULL
+13,Deborah Cook,Electrical,Beginner,Available,Major Issues,7,2.8,NULL
+15,Hannah Ellis,Electrical,Advanced,Available,Major Issues,7,4.2,B
+16,Ashley Garcia,Painting,Advanced,Available,Healthy,9,10.8,NULL
+17,Robert Washington,Electrical,Beginner,Available,Major Issues,5,2.0,NULL
+20,Tiffany Mack,Heavy Machinery Operation,Advanced,Available,Healthy,9,10.8,NULL
+21,Sharon Graham,Landscaping,Advanced,Available,Minor Issues,5,4.8,G
+22,Nicholas Hurst,Painting,Beginner,Available,Healthy,9,7.2,F
+23,Dale Barnes,Drywall,Advanced,Available,Healthy,5,6.0,NULL
+25,Lisa Scott,Roofing,Beginner,Available,Minor Issues,8,5.12,A
+26,Chad Eaton,Carpentry,Beginner,Available,Major Issues,5,2.0,NULL
+27,Colton West,Electrical,Intermediate,Available,Major Issues,7,3.5,D
+29,Caitlin Williams,Drywall,Advanced,Available,Minor Issues,1,0.96,I
+30,Tyler Hale,Roofing,Beginner,Available,Healthy,6,4.8,A
+31,Melinda Dillon,Flooring,Intermediate,Available,Major Issues,5,2.5,NULL
+32,Jessica Hogan,Landscaping,Intermediate,Available,Major Issues,7,3.5,G
+33,Nicholas Tucker,Flooring,Advanced,Available,Minor Issues,3,2.88,NULL
+34,Sheena Hill,Carpentry,Advanced,Available,Major Issues,8,4.8,NULL
+38,Susan Young,Painting,Advanced,Available,Minor Issues,6,5.76,NULL
+41,Curtis Parker,Landscaping,Advanced,Available,Major Issues,1,0.6,F
+42,Ryan Cole,Flooring,Advanced,Available,Healthy,7,8.4,C
+43,Tracie Garrett,Landscaping,Intermediate,Available,Minor Issues,3,2.4,NULL
+44,Tammy Hudson,Carpentry,Intermediate,Available,Healthy,10,10.0,A
+47,Mark White,Electrical,Intermediate,Available,Major Issues,10,5.0,NULL
+48,Alexandra Klein,Plumbing,Advanced,Available,Minor Issues,5,4.8,I
+50,Brandon Frey,HVAC,Advanced,Available,Healthy,5,6.0,NULL
+55,Michael Palmer,Landscaping,Intermediate,Available,Minor Issues,6,4.8,D
+56,Julie Ashley,HVAC,Intermediate,Available,Minor Issues,8,6.4,G
+58,Alexis Peters,Painting,Beginner,Available,Minor Issues,3,1.92,NULL
+59,Daniel Washington,Painting,Beginner,Available,Healthy,5,4.0,NULL
+61,Ricky Suarez,HVAC,Beginner,Available,Healthy,2,1.6,NULL
+62,Kelly Vasquez,Heavy Machinery Operation,Intermediate,Available,Minor Issues,6,4.8,F
+63,Jeffrey Robinson,Painting,Advanced,Available,Healthy,10,12.0,B
+66,Jessica Hill,Electrical,Advanced,Available,Minor Issues,9,8.64,NULL
+71,Matthew Jackson,HVAC,Advanced,Available,Minor Issues,3,2.88,NULL
+72,Gabriel Rios,Plumbing,Intermediate,Available,Minor Issues,10,8.0,NULL
+73,Patricia Cardenas,Painting,Advanced,Available,Major Issues,10,6.0,NULL
+75,Margaret Armstrong MD,Carpentry,Intermediate,Available,Minor Issues,1,0.8,NULL
+77,Brittany Davis,Painting,Advanced,Available,Minor Issues,2,1.92,NULL
+78,Timothy Barr,Heavy Machinery Operation,Advanced,Available,Healthy,1,1.2,I
+79,Robert Brown,Drywall,Beginner,Available,Minor Issues,9,5.76,NULL
+80,Gene Franco,Plumbing,Intermediate,Available,Major Issues,5,2.5,F
+82,Kimberly Schmitt DVM,Heavy Machinery Operation,Beginner,Available,Major Issues,9,3.6,NULL
+84,Patricia Arnold,HVAC,Beginner,Available,Minor Issues,2,1.28,NULL
+88,Kyle Hendricks,Drywall,Intermediate,Available,Minor Issues,4,3.2,F
+91,Ricardo Webb,Roofing,Advanced,Available,Minor Issues,10,9.6,NULL
+92,Andrew Oliver,Heavy Machinery Operation,Intermediate,Available,Major Issues,9,4.5,B
+94,Mrs. Tonya Hill,Roofing,Beginner,Available,Minor Issues,10,6.4,NULL
+95,Ellen Clark,Roofing,Beginner,Available,Healthy,8,6.4,NULL
+96,Hannah Alexander,Flooring,Intermediate,Available,Minor Issues,9,7.2,NULL
+97,Lori Ferguson,Drywall,Advanced,Available,Major Issues,8,4.8,NULL
+102,Teresa Marshall,Heavy Machinery Operation,Advanced,Available,Healthy,8,9.6,NULL
+103,Teresa Ruiz,Plumbing,Beginner,Available,Minor Issues,9,5.76,D
+106,Amy Sutton,Painting,Intermediate,Available,Minor Issues,6,4.8,J
+108,Tina Gregory,Flooring,Beginner,Available,Major Issues,4,1.6,NULL
+111,Mariah Bailey,Heavy Machinery Operation,Advanced,Available,Major Issues,9,5.4,NULL
+112,Timothy Anderson,Roofing,Intermediate,Available,Healthy,10,10.0,I
+113,Amanda Cochran,Heavy Machinery Operation,Intermediate,Available,Major Issues,7,3.5,NULL
+115,Roy Hernandez,Plumbing,Advanced,Available,Minor Issues,1,0.96,NULL
+118,Morgan Mccarthy,Heavy Machinery Operation,Beginner,Available,Healthy,9,7.2,NULL
+123,Tammy Clark,Electrical,Intermediate,Available,Major Issues,7,3.5,H
+124,Kevin Chavez,Flooring,Intermediate,Available,Minor Issues,7,5.6,NULL
+125,Kelly Floyd,Flooring,Intermediate,Available,Minor Issues,4,3.2,NULL
+128,Anthony Warren,Electrical,Intermediate,Available,Major Issues,2,1.0,NULL
+129,Ellen Bowen,HVAC,Advanced,Available,Major Issues,3,1.8,NULL
+137,Regina Gonzalez,HVAC,Advanced,Available,Healthy,1,1.2,NULL
+141,Joshua Perez,Painting,Advanced,Available,Major Issues,6,3.6,B
+142,Justin Lewis,Plumbing,Beginner,Available,Minor Issues,2,1.28,E
+151,Zachary Hampton,Electrical,Advanced,Available,Major Issues,10,6.0,F
+152,Theresa Bell,Drywall,Advanced,Available,Healthy,1,1.2,C
+154,Leslie Sanders,Electrical,Beginner,Available,Minor Issues,5,3.2,B
+156,Kimberly Taylor,Carpentry,Beginner,Available,Major Issues,4,1.6,G
+157,Krystal Thompson,Carpentry,Advanced,Available,Minor Issues,2,1.92,I
+158,Aaron Carrillo,Flooring,Advanced,Available,Healthy,1,1.2,NULL
+163,Morgan Jones,Electrical,Beginner,Available,Healthy,8,6.4,NULL
+166,Jordan Williams,Flooring,Beginner,Available,Healthy,9,7.2,NULL
+169,Jacob Drake,HVAC,Beginner,Available,Major Issues,6,2.4,NULL
+170,Tara Neal,Drywall,Intermediate,Available,Healthy,7,7.0,G
+172,Ashley Weiss,Heavy Machinery Operation,Advanced,Available,Minor Issues,1,0.96,NULL
+176,Carolyn Moore,Heavy Machinery Operation,Intermediate,Available,Major Issues,9,4.5,D
+177,Francisco Stewart,HVAC,Advanced,Available,Minor Issues,9,8.64,NULL
+184,Angel Brooks,Landscaping,Beginner,Available,Major Issues,1,0.4,C
+185,Curtis Wright,Landscaping,Beginner,Available,Major Issues,6,2.4,B
+186,Ashley Clark,Heavy Machinery Operation,Advanced,Available,Major Issues,4,2.4,NULL
+187,Meghan Dunn,Heavy Machinery Operation,Intermediate,Available,Major Issues,2,1.0,NULL
+191,Tyler Mendoza,Roofing,Advanced,Available,Minor Issues,5,4.8,J
+192,Robert Smith,Electrical,Beginner,Available,Healthy,8,6.4,NULL
+197,Dawn Romero,Roofing,Beginner,Available,Major Issues,2,0.8,G
+200,Troy Weber,Roofing,Intermediate,Available,Major Issues,8,4.0,NULL
+203,Thomas Bell,Drywall,Advanced,Available,Minor Issues,10,9.6,NULL
+205,Cheryl Hicks,Carpentry,Beginner,Available,Minor Issues,2,1.28,I
+208,Anthony Henderson,Carpentry,Beginner,Available,Major Issues,8,3.2,NULL
+209,Angela Griffin,Electrical,Advanced,Available,Major Issues,2,1.2,NULL
+210,Christine Lynch,Carpentry,Intermediate,Available,Major Issues,10,5.0,H
+212,Gloria Joyce,Painting,Advanced,Available,Major Issues,2,1.2,NULL
+214,Carol White PhD,Painting,Advanced,Available,Minor Issues,9,8.64,NULL
+217,Jennifer Rodriguez,Plumbing,Beginner,Available,Healthy,4,3.2,NULL
+218,Robert Thompson,Heavy Machinery Operation,Intermediate,Available,Major Issues,8,4.0,F
+220,Brittany Hall,Landscaping,Intermediate,Available,Healthy,4,4.0,H
+222,Virginia Benton,Flooring,Intermediate,Available,Minor Issues,1,0.8,I
+224,Kenneth Henry,Landscaping,Intermediate,Available,Healthy,4,4.0,NULL
+227,Chase Tucker,HVAC,Advanced,Available,Major Issues,10,6.0,A
+229,Christine King,Drywall,Beginner,Available,Major Issues,7,2.8,H
+231,Michelle Mendoza,Roofing,Beginner,Available,Minor Issues,5,3.2,NULL
+233,William Huffman,Flooring,Advanced,Available,Healthy,6,7.2,NULL
+236,Sarah Kelly,Drywall,Advanced,Available,Minor Issues,3,2.88,NULL
+237,David Hayes,Drywall,Intermediate,Available,Healthy,6,6.0,NULL
+242,Emily Meyer,Flooring,Intermediate,Available,Healthy,10,10.0,H
+243,Gabrielle Hester,Heavy Machinery Operation,Beginner,Available,Minor Issues,8,5.12,NULL
+244,Michael Jones,Drywall,Intermediate,Available,Minor Issues,7,5.6,NULL
+247,Kathleen Owen,Drywall,Intermediate,Available,Healthy,5,5.0,NULL
+249,Robert Cantu,Roofing,Beginner,Available,Minor Issues,10,6.4,NULL
+251,Victoria Jones,Roofing,Beginner,Available,Major Issues,7,2.8,NULL
+252,David Cohen,Electrical,Intermediate,Available,Healthy,7,7.0,A
+254,Douglas Harmon,HVAC,Intermediate,Available,Major Issues,9,4.5,J
+255,Penny Thomas,Landscaping,Intermediate,Available,Major Issues,2,1.0,B
+256,Ronald Alvarado,Roofing,Beginner,Available,Major Issues,10,4.0,J
+258,Jeffrey Winters,Electrical,Beginner,Available,Major Issues,5,2.0,H
+260,Robert Herring,Heavy Machinery Operation,Advanced,Available,Major Issues,5,3.0,H
+261,James Doyle,Heavy Machinery Operation,Advanced,Available,Minor Issues,5,4.8,J
+262,Colleen Singleton,Carpentry,Intermediate,Available,Healthy,6,6.0,NULL
+264,Joshua Tucker,Flooring,Intermediate,Available,Healthy,8,8.0,D
+265,Austin Copeland,Plumbing,Advanced,Available,Major Issues,1,0.6,J
+267,Eric Webb,Carpentry,Beginner,Available,Healthy,1,0.8,J
+269,Amy Eaton,Flooring,Advanced,Available,Healthy,4,4.8,D
+271,Darrell Huffman,HVAC,Advanced,Available,Major Issues,10,6.0,J
+272,Gregory Wilson,Painting,Advanced,Available,Healthy,1,1.2,C
+277,Maria Martinez,Flooring,Advanced,Available,Healthy,10,12.0,NULL
+278,Vanessa Armstrong,Roofing,Intermediate,Available,Minor Issues,8,6.4,NULL
+279,Kayla Jones,HVAC,Intermediate,Available,Healthy,7,7.0,NULL
+280,Tina Wu,Heavy Machinery Operation,Advanced,Available,Healthy,3,3.6,NULL
+281,Brent Donaldson,Plumbing,Advanced,Available,Healthy,2,2.4,NULL
+284,David Boone,Electrical,Advanced,Available,Minor Issues,8,7.68,I
+285,Victoria Huang,Electrical,Beginner,Available,Major Issues,3,1.2,NULL
+286,Brian Carter,Carpentry,Beginner,Available,Minor Issues,8,5.12,NULL
+288,Katrina Baker,Drywall,Intermediate,Available,Healthy,6,6.0,F
+289,Randy Middleton,Plumbing,Advanced,Available,Healthy,6,7.2,A
+290,Pamela Vazquez,Flooring,Intermediate,Available,Healthy,2,2.0,NULL
+291,Douglas Johnson,Roofing,Intermediate,Available,Minor Issues,7,5.6,NULL
+293,Brandy Shepherd MD,Landscaping,Advanced,Available,Major Issues,2,1.2,H
+295,Christopher Riley,Heavy Machinery Operation,Intermediate,Available,Minor Issues,2,1.6,NULL
+296,Cynthia Lamb,Landscaping,Advanced,Available,Major Issues,6,3.6,NULL
+302,Timothy Rios,Roofing,Advanced,Available,Major Issues,4,2.4,F
+304,Jonathan Murillo,Electrical,Beginner,Available,Minor Issues,4,2.56,NULL
+305,Cheryl Lang,Plumbing,Beginner,Available,Minor Issues,7,4.48,H
+306,Brittany Moran,Roofing,Beginner,Available,Minor Issues,3,1.92,H
+310,Tyler Williams,Electrical,Intermediate,Available,Major Issues,5,2.5,NULL
+313,Ronald Wells,Heavy Machinery Operation,Beginner,Available,Minor Issues,7,4.48,NULL
+314,Cheryl Rogers,Roofing,Beginner,Available,Major Issues,5,2.0,A
+315,Alison Waters,Electrical,Intermediate,Available,Healthy,8,8.0,C
+316,William Lyons,Heavy Machinery Operation,Advanced,Available,Healthy,1,1.2,B
+318,Mrs. Abigail Shepard MD,Painting,Beginner,Available,Minor Issues,7,4.48,C
+319,Donna Ramirez,Landscaping,Intermediate,Available,Major Issues,8,4.0,NULL
+320,Michael Larson,Heavy Machinery Operation,Advanced,Available,Minor Issues,10,9.6,NULL
+323,Zachary Scott,Roofing,Beginner,Available,Major Issues,10,4.0,G
+324,Mary Gibbs,Landscaping,Advanced,Available,Healthy,1,1.2,NULL
+325,Nathan Ryan,Drywall,Intermediate,Available,Healthy,5,5.0,A
+327,Miranda Williams,Electrical,Advanced,Available,Healthy,3,3.6,NULL
+335,Sarah Tran,Carpentry,Intermediate,Available,Major Issues,4,2.0,A
+336,Samantha Hood,Drywall,Intermediate,Available,Healthy,5,5.0,D
+338,Rodney Morris,Drywall,Intermediate,Available,Healthy,7,7.0,NULL
+339,Alexandra Carrillo,Drywall,Intermediate,Available,Healthy,7,7.0,NULL
+341,Dr. Devin Lane,Electrical,Intermediate,Available,Healthy,6,6.0,I
+345,Heather King,Drywall,Advanced,Available,Minor Issues,3,2.88,C
+346,Beth Harris,Plumbing,Beginner,Available,Major Issues,7,2.8,NULL
+347,Tracy Schneider,HVAC,Beginner,Available,Healthy,6,4.8,G
+352,Sean Reed,Electrical,Beginner,Available,Major Issues,5,2.0,G
+354,John Moore,Roofing,Beginner,Available,Major Issues,8,3.2,NULL
+358,Andrea Williamson,Heavy Machinery Operation,Beginner,Available,Minor Issues,4,2.56,NULL
+360,Joshua Peterson,Roofing,Intermediate,Available,Minor Issues,5,4.0,NULL
+369,Susan Cook,Painting,Beginner,Available,Healthy,1,0.8,NULL
+370,Matthew Myers,Heavy Machinery Operation,Beginner,Available,Healthy,2,1.6,NULL
+371,Jeffrey Middleton,Carpentry,Beginner,Available,Major Issues,5,2.0,D
+375,John Hobbs,Heavy Machinery Operation,Advanced,Available,Minor Issues,5,4.8,NULL
+377,Jeffrey Serrano,Drywall,Intermediate,Available,Major Issues,3,1.5,NULL
+378,John Green,Carpentry,Beginner,Available,Major Issues,7,2.8,E
+379,Samantha Ward,Carpentry,Beginner,Available,Minor Issues,4,2.56,NULL
+381,Bryan Woodward,Flooring,Intermediate,Available,Healthy,4,4.0,I
+387,William Summers,Heavy Machinery Operation,Beginner,Available,Minor Issues,7,4.48,NULL
+392,Tammy Lee,Landscaping,Advanced,Available,Minor Issues,5,4.8,E
+395,Charles Carter,Carpentry,Intermediate,Available,Healthy,3,3.0,NULL
+401,Mrs. Lisa Robertson,Electrical,Beginner,Available,Healthy,2,1.6,NULL
+402,Steven Taylor,Heavy Machinery Operation,Beginner,Available,Healthy,1,0.8,NULL
+405,Brooke Erickson,Roofing,Intermediate,Available,Minor Issues,1,0.8,H
+406,Jessica Chambers,HVAC,Beginner,Available,Minor Issues,8,5.12,NULL
+409,Stephanie Walters,HVAC,Beginner,Available,Major Issues,5,2.0,A
+410,Richard Forbes,Heavy Machinery Operation,Advanced,Available,Major Issues,10,6.0,E
+413,Robin Herrera,Roofing,Beginner,Available,Minor Issues,9,5.76,NULL
+419,Matthew Hull,Plumbing,Beginner,Available,Healthy,5,4.0,I
+420,Caroline Fox,Roofing,Intermediate,Available,Minor Issues,3,2.4,NULL
+422,Jeffrey Wilkerson,Flooring,Advanced,Available,Minor Issues,7,6.72,C
+423,Holly Horn,Drywall,Advanced,Available,Healthy,10,12.0,D
+426,Sarah Zimmerman,Drywall,Intermediate,Available,Major Issues,9,4.5,NULL
+427,Rebecca Pham,Landscaping,Advanced,Available,Minor Issues,1,0.96,NULL
+430,Shannon Bailey,Electrical,Beginner,Available,Minor Issues,6,3.84,NULL
+435,Joseph Bradley,Painting,Beginner,Available,Healthy,6,4.8,NULL
+436,David Riley,Landscaping,Beginner,Available,Minor Issues,5,3.2,B
+438,Nathan Sutton,Roofing,Beginner,Available,Minor Issues,2,1.28,NULL
+439,Amber Hunter,HVAC,Advanced,Available,Minor Issues,1,0.96,NULL
+443,Philip Kelly,Painting,Intermediate,Available,Major Issues,2,1.0,NULL
+444,Mark Evans,Painting,Advanced,Available,Minor Issues,6,5.76,NULL
+445,Amber Hunt,Heavy Machinery Operation,Beginner,Available,Major Issues,4,1.6,NULL
+447,Brandy Berg,Carpentry,Intermediate,Available,Major Issues,9,4.5,D
+450,Jack Evans,Carpentry,Beginner,Available,Major Issues,7,2.8,F
+451,Jasmine Allen,HVAC,Intermediate,Available,Minor Issues,9,7.2,NULL
+452,Katherine Stein,Carpentry,Advanced,Available,Healthy,2,2.4,B
+453,Ryan Sanford,Roofing,Advanced,Available,Healthy,7,8.4,E
+454,Christine Dawson,Roofing,Beginner,Available,Major Issues,9,3.6,NULL
+458,Heather Torres,Electrical,Beginner,Available,Healthy,10,8.0,D
+460,David Chandler,Electrical,Intermediate,Available,Healthy,6,6.0,D
+461,Linda Hines,Painting,Intermediate,Available,Major Issues,9,4.5,NULL
+462,Kathryn Gibson,Electrical,Advanced,Available,Major Issues,6,3.6,NULL
+464,Jason Rice,Heavy Machinery Operation,Beginner,Available,Minor Issues,8,5.12,J
+465,Dennis Gonzalez,Drywall,Beginner,Available,Major Issues,6,2.4,C
+466,Jacob Knapp,Roofing,Intermediate,Available,Major Issues,3,1.5,NULL
+467,Ana Johnson,Electrical,Beginner,Available,Healthy,4,3.2,NULL
+469,Robert Rangel,Flooring,Advanced,Available,Minor Issues,3,2.88,NULL
+470,Stephen Bates,Flooring,Beginner,Available,Major Issues,10,4.0,NULL
+471,Sherri Decker,Heavy Machinery Operation,Intermediate,Available,Major Issues,7,3.5,NULL
+473,Connor Scott,Plumbing,Beginner,Available,Minor Issues,7,4.48,C
+474,Bobby Gray,Electrical,Beginner,Available,Major Issues,8,3.2,NULL
+476,Stephanie Carter,Plumbing,Beginner,Available,Major Issues,2,0.8,B
+480,John Burgess,Landscaping,Intermediate,Available,Minor Issues,4,3.2,NULL
+482,Rebecca Rivera,Plumbing,Beginner,Available,Healthy,9,7.2,C
+484,Sarah Hernandez,Carpentry,Intermediate,Available,Minor Issues,9,7.2,NULL
+486,Timothy Atkins,Drywall,Intermediate,Available,Minor Issues,7,5.6,F
+487,Ronald Garcia,Painting,Intermediate,Available,Major Issues,3,1.5,NULL
+489,Jeffrey Swanson,Painting,Beginner,Available,Major Issues,9,3.6,NULL
+490,Alexander Mcgrath,Heavy Machinery Operation,Beginner,Available,Major Issues,4,1.6,J
+495,Michelle Boyd,Heavy Machinery Operation,Intermediate,Available,Healthy,2,2.0,B
+496,Becky Maxwell,Carpentry,Advanced,Available,Healthy,4,4.8,B
+498,Mr. Charles Steele MD,Plumbing,Advanced,Available,Major Issues,4,2.4,NULL
+499,David Diaz,Carpentry,Intermediate,Available,Healthy,10,10.0,NULL
+500,David White,Roofing,Intermediate,Available,Major Issues,6,3.0,NULL
+502,Kyle Ball,HVAC,Intermediate,Available,Minor Issues,6,4.8,NULL
+505,Austin Chapman,Roofing,Beginner,Available,Major Issues,4,1.6,NULL
+507,Dr. Patricia Thomas DDS,Heavy Machinery Operation,Beginner,Available,Healthy,3,2.4,NULL
+510,Terry Delgado,Roofing,Advanced,Available,Major Issues,3,1.8,I
+511,Jesus Goodman,Flooring,Beginner,Available,Major Issues,10,4.0,NULL
+513,Amy Cook,Heavy Machinery Operation,Beginner,Available,Healthy,5,4.0,A
+515,Susan Mccoy,Heavy Machinery Operation,Beginner,Available,Minor Issues,3,1.92,C
+516,Vincent Sexton,Landscaping,Beginner,Available,Healthy,4,3.2,G
+518,Christopher Baker,Landscaping,Beginner,Available,Major Issues,9,3.6,NULL
+519,Douglas Fleming,Drywall,Advanced,Available,Major Issues,5,3.0,NULL
+520,Jennifer Perez,Painting,Advanced,Available,Minor Issues,3,2.88,C
+521,Chelsea Mendoza,Painting,Advanced,Available,Minor Issues,5,4.8,D
+522,Erin Jones,Roofing,Intermediate,Available,Healthy,7,7.0,NULL
+523,Rachel Schultz,HVAC,Intermediate,Available,Healthy,4,4.0,NULL
+524,Amanda Pace,Landscaping,Beginner,Available,Minor Issues,6,3.84,F
+525,Pamela Clark,Electrical,Intermediate,Available,Minor Issues,10,8.0,NULL
+528,Susan Boyer,Landscaping,Intermediate,Available,Minor Issues,2,1.6,NULL
+530,Mrs. Michelle Keller,Landscaping,Intermediate,Available,Major Issues,9,4.5,G
+532,Paul Mcguire,Drywall,Advanced,Available,Major Issues,4,2.4,NULL
+537,Paula Hudson,Plumbing,Intermediate,Available,Healthy,6,6.0,H
+538,Joshua Hernandez,Roofing,Beginner,Available,Minor Issues,8,5.12,B
+539,James Perry,Heavy Machinery Operation,Intermediate,Available,Major Issues,8,4.0,NULL
+540,Sandra Rasmussen,Carpentry,Advanced,Available,Healthy,2,2.4,E
+541,Sean Blake,Electrical,Beginner,Available,Major Issues,9,3.6,NULL
+542,Michael Flores,Plumbing,Beginner,Available,Major Issues,10,4.0,D
+546,Cameron Fry,Heavy Machinery Operation,Intermediate,Available,Healthy,6,6.0,NULL
+549,Samantha Kelley,Electrical,Beginner,Available,Minor Issues,8,5.12,NULL
+551,Stacy Cummings,Painting,Intermediate,Available,Major Issues,2,1.0,NULL
+553,Jordan Lester,Plumbing,Beginner,Available,Major Issues,2,0.8,A
+554,Marisa Johnson,Painting,Beginner,Available,Healthy,1,0.8,B
+555,Dr. Stephanie Ruiz,Roofing,Beginner,Available,Minor Issues,8,5.12,NULL
+558,Dawn Tucker,Flooring,Beginner,Available,Healthy,3,2.4,NULL
+559,Rachel Jones,Plumbing,Intermediate,Available,Major Issues,6,3.0,C
+561,Ashley Bush,Plumbing,Advanced,Available,Minor Issues,1,0.96,NULL
+563,Danielle Roberts,Landscaping,Advanced,Available,Minor Issues,4,3.84,NULL
+564,Nicole Mcguire DDS,Landscaping,Intermediate,Available,Healthy,6,6.0,H
+565,Mark Glenn,HVAC,Advanced,Available,Healthy,7,8.4,J
+566,Samantha Owens,Heavy Machinery Operation,Beginner,Available,Major Issues,8,3.2,J
+573,Andrea Terrell,HVAC,Intermediate,Available,Healthy,5,5.0,NULL
+574,Suzanne Williams,Roofing,Advanced,Available,Minor Issues,10,9.6,H
+576,Michelle Miller DVM,Electrical,Intermediate,Available,Major Issues,5,2.5,NULL
+577,Stephen May,Electrical,Beginner,Available,Minor Issues,6,3.84,NULL
+579,Phillip White,Flooring,Advanced,Available,Minor Issues,5,4.8,NULL
+582,Tracy Burton,Electrical,Advanced,Available,Healthy,2,2.4,NULL
+584,Nicholas Larsen,Carpentry,Advanced,Available,Healthy,5,6.0,C
+585,Chad Edwards,HVAC,Intermediate,Available,Major Issues,7,3.5,NULL
+586,Kathryn Sanchez,Carpentry,Beginner,Available,Minor Issues,1,0.64,NULL
+587,Pamela Dickson,Roofing,Beginner,Available,Healthy,10,8.0,J
+590,Brandon Young,Roofing,Intermediate,Available,Healthy,1,1.0,NULL
+591,Juan Smith,Carpentry,Intermediate,Available,Major Issues,8,4.0,NULL
+592,Christopher Knight,Electrical,Advanced,Available,Healthy,6,7.2,E
+596,Deborah Campbell,Painting,Intermediate,Available,Healthy,7,7.0,B
+599,Lee Young,Heavy Machinery Operation,Advanced,Available,Healthy,7,8.4,E
+601,Jesse Brady,HVAC,Intermediate,Available,Major Issues,1,0.5,NULL
+602,Joshua Kelley,Roofing,Intermediate,Available,Major Issues,2,1.0,G
+603,Kristine Peters,Flooring,Advanced,Available,Minor Issues,2,1.92,D
+604,Christopher Spencer,Carpentry,Intermediate,Available,Minor Issues,1,0.8,NULL
+605,Jared Lawrence,Flooring,Intermediate,Available,Healthy,7,7.0,I
+611,Christine Long,Electrical,Intermediate,Available,Major Issues,5,2.5,NULL
+613,Amanda Jones,Landscaping,Advanced,Available,Minor Issues,5,4.8,D
+616,Anthony Mcdonald,Plumbing,Beginner,Available,Healthy,9,7.2,NULL
+618,William Wilson,Drywall,Advanced,Available,Major Issues,8,4.8,G
+619,Adam Lewis,HVAC,Intermediate,Available,Major Issues,8,4.0,C
+622,Jacob Smith,Heavy Machinery Operation,Beginner,Available,Healthy,5,4.0,NULL
+624,John Dawson,Carpentry,Advanced,Available,Minor Issues,2,1.92,I
+629,Peter Garcia,Carpentry,Beginner,Available,Healthy,4,3.2,B
+630,Diane Hill,Heavy Machinery Operation,Intermediate,Available,Minor Issues,10,8.0,J
+631,Samantha Bradley,Plumbing,Advanced,Available,Healthy,1,1.2,NULL
+633,Shannon Morris,Plumbing,Advanced,Available,Major Issues,8,4.8,A
+636,Amy Simmons,Carpentry,Intermediate,Available,Minor Issues,9,7.2,NULL
+637,Patricia Clarke,HVAC,Beginner,Available,Major Issues,9,3.6,NULL
+646,Ashlee Kramer,Roofing,Intermediate,Available,Minor Issues,10,8.0,G
+647,Sarah Cochran,Painting,Beginner,Available,Major Issues,9,3.6,I
+648,Ronald Cruz,HVAC,Advanced,Available,Minor Issues,3,2.88,NULL
+649,Kara Adams,Flooring,Advanced,Available,Healthy,1,1.2,E
+650,Lauren Ferguson,Painting,Intermediate,Available,Healthy,6,6.0,D
+652,Miguel Brown,Drywall,Intermediate,Available,Major Issues,7,3.5,NULL
+653,Emma Johnston,Roofing,Advanced,Available,Major Issues,2,1.2,NULL
+654,Philip Mcclure,Plumbing,Intermediate,Available,Healthy,8,8.0,NULL
+656,Erin Vincent,Drywall,Intermediate,Available,Healthy,3,3.0,C
+657,Sarah Evans,HVAC,Advanced,Available,Major Issues,7,4.2,H
+658,Pamela Greene,Roofing,Beginner,Available,Minor Issues,6,3.84,NULL
+659,Lori Ramirez,Drywall,Beginner,Available,Minor Issues,2,1.28,NULL
+660,Elizabeth Wolf,Flooring,Advanced,Available,Healthy,8,9.6,NULL
+664,Joel Cook,Drywall,Beginner,Available,Minor Issues,2,1.28,D
+666,Tracie Rodriguez,Flooring,Intermediate,Available,Minor Issues,7,5.6,D
+671,Zachary Gomez,Plumbing,Intermediate,Available,Minor Issues,2,1.6,NULL
+674,Amanda Moore,Painting,Intermediate,Available,Major Issues,8,4.0,NULL
+677,Danielle Allen,Carpentry,Intermediate,Available,Minor Issues,6,4.8,B
+679,Lori Weiss,HVAC,Intermediate,Available,Minor Issues,8,6.4,I
+680,Stacy Carson,Painting,Advanced,Available,Major Issues,8,4.8,B
+681,Michelle Young,Plumbing,Advanced,Available,Major Issues,9,5.4,G
+683,Joshua Sharp,Painting,Intermediate,Available,Minor Issues,9,7.2,D
+684,Samantha Mcbride,Painting,Intermediate,Available,Major Issues,5,2.5,NULL
+687,Michael Carroll,Plumbing,Beginner,Available,Minor Issues,4,2.56,NULL
+688,Anthony Gardner,Drywall,Advanced,Available,Major Issues,7,4.2,NULL
+689,Joseph Cordova,Electrical,Beginner,Available,Healthy,1,0.8,B
+690,Cindy Robles,HVAC,Advanced,Available,Minor Issues,1,0.96,NULL
+692,Maxwell Cook,Painting,Intermediate,Available,Major Issues,2,1.0,NULL
+698,Andrew Torres,HVAC,Beginner,Available,Minor Issues,4,2.56,NULL
+699,Tina Pitts,Electrical,Intermediate,Available,Minor Issues,6,4.8,NULL
+700,Daniel Petty,Electrical,Advanced,Available,Major Issues,9,5.4,J
+702,Vanessa Nguyen,Plumbing,Beginner,Available,Minor Issues,9,5.76,H
+705,Jennifer Gonzales,Carpentry,Advanced,Available,Healthy,6,7.2,E
+706,Jeffrey Alvarez,Roofing,Intermediate,Available,Healthy,6,6.0,NULL
+707,Anthony Smith,Electrical,Beginner,Available,Healthy,2,1.6,NULL
+708,Dr. Katherine James DDS,Painting,Intermediate,Available,Healthy,6,6.0,NULL
+709,Craig Esparza,Flooring,Advanced,Available,Minor Issues,4,3.84,B
+710,Victor Roberts,HVAC,Intermediate,Available,Healthy,6,6.0,B
+712,Nicole Moore,HVAC,Beginner,Available,Minor Issues,3,1.92,NULL
+716,Elizabeth Gonzalez,Carpentry,Intermediate,Available,Major Issues,10,5.0,NULL
+718,Tony Robinson,Electrical,Advanced,Available,Minor Issues,5,4.8,D
+720,Vickie Cobb,Painting,Advanced,Available,Major Issues,9,5.4,B
+723,James Sanders,Landscaping,Advanced,Available,Healthy,6,7.2,NULL
+724,Brian Hayden,Electrical,Intermediate,Available,Healthy,3,3.0,NULL
+731,Kenneth Barrett,Flooring,Advanced,Available,Healthy,9,10.8,F
+732,John Carter,HVAC,Beginner,Available,Minor Issues,5,3.2,E
+733,Michelle Lin,Electrical,Advanced,Available,Major Issues,10,6.0,NULL
+734,Robert Schroeder,Heavy Machinery Operation,Advanced,Available,Healthy,8,9.6,NULL
+735,Rebecca Lee,Plumbing,Intermediate,Available,Healthy,4,4.0,NULL
+739,James Cline,Painting,Intermediate,Available,Minor Issues,6,4.8,NULL
+740,Jessica Wright,Carpentry,Intermediate,Available,Healthy,3,3.0,B
+741,Darren Floyd,Roofing,Advanced,Available,Minor Issues,2,1.92,A
+742,Rebecca Martin,Heavy Machinery Operation,Beginner,Available,Healthy,2,1.6,NULL
+743,Miguel Sanders,Carpentry,Intermediate,Available,Minor Issues,5,4.0,G
+744,Michael Lucas,Landscaping,Intermediate,Available,Minor Issues,6,4.8,NULL
+745,Corey Chandler,Landscaping,Intermediate,Available,Minor Issues,8,6.4,E
+747,Brittney Soto,Heavy Machinery Operation,Advanced,Available,Minor Issues,10,9.6,NULL
+748,Charles Mccoy,Painting,Beginner,Available,Healthy,10,8.0,H
+749,Christine Strong,Carpentry,Intermediate,Available,Major Issues,5,2.5,NULL
+751,David Blake,Painting,Advanced,Available,Major Issues,3,1.8,B
+755,Andrew Oconnell,Flooring,Beginner,Available,Minor Issues,8,5.12,NULL
+756,Brian Davila,Plumbing,Intermediate,Available,Minor Issues,6,4.8,NULL
+757,Katherine Richards,Electrical,Intermediate,Available,Minor Issues,6,4.8,C
+761,Doris Henderson,Drywall,Intermediate,Available,Major Issues,1,0.5,NULL
+763,Albert Bowen,Plumbing,Intermediate,Available,Healthy,3,3.0,NULL
+764,Alan Castillo,Painting,Intermediate,Available,Healthy,2,2.0,NULL
+765,Donald Turner,HVAC,Intermediate,Available,Minor Issues,8,6.4,NULL
+768,Kara Rivera,Flooring,Advanced,Available,Healthy,4,4.8,B
+769,Mike Perez,Carpentry,Intermediate,Available,Major Issues,8,4.0,NULL
+771,Jack Barker,Roofing,Advanced,Available,Major Issues,6,3.6,D
+778,Thomas Gibson,Plumbing,Advanced,Available,Major Issues,4,2.4,NULL
+780,John Barker,Flooring,Advanced,Available,Healthy,4,4.8,F
+785,Jeffrey Miller,Painting,Intermediate,Available,Major Issues,10,5.0,NULL
+787,Ms. Dawn Jackson,Landscaping,Advanced,Available,Healthy,10,12.0,NULL
+789,Crystal Robinson,HVAC,Beginner,Available,Healthy,7,5.6,NULL
+790,Richard Greene,Flooring,Advanced,Available,Minor Issues,1,0.96,NULL
+794,Ryan Hall,Carpentry,Intermediate,Available,Healthy,6,6.0,C
+796,Amanda Irwin,Flooring,Advanced,Available,Minor Issues,2,1.92,NULL
+801,Robin Berg,Painting,Beginner,Available,Major Issues,7,2.8,J
+806,Nicole Shelton,Heavy Machinery Operation,Beginner,Available,Major Issues,2,0.8,NULL
+808,David Briggs,Landscaping,Intermediate,Available,Minor Issues,9,7.2,NULL
+810,William Mcintosh,Electrical,Advanced,Available,Major Issues,6,3.6,D
+812,Rebecca Case,Painting,Intermediate,Available,Healthy,9,9.0,A
+816,Mariah Glenn,Carpentry,Advanced,Available,Healthy,7,8.4,E
+818,Jessica Blanchard,Drywall,Advanced,Available,Major Issues,7,4.2,NULL
+820,Mark Forbes,Landscaping,Intermediate,Available,Minor Issues,4,3.2,A
+821,Nicholas Hill,Plumbing,Intermediate,Available,Healthy,8,8.0,B
+827,Michael Carpenter,Heavy Machinery Operation,Intermediate,Available,Minor Issues,2,1.6,NULL
+828,Richard Lee,Drywall,Advanced,Available,Major Issues,7,4.2,I
+829,Robert Williams,Flooring,Beginner,Available,Healthy,3,2.4,G
+830,Stephanie Warren,Plumbing,Advanced,Available,Major Issues,2,1.2,A
+832,Karen Moore,Heavy Machinery Operation,Advanced,Available,Healthy,8,9.6,F
+837,Michael Rodriguez,Carpentry,Beginner,Available,Major Issues,1,0.4,NULL
+839,Thomas Jensen,Landscaping,Intermediate,Available,Major Issues,1,0.5,J
+840,Brittany Walls,Heavy Machinery Operation,Advanced,Available,Healthy,3,3.6,B
+844,Christopher Morrow,Electrical,Beginner,Available,Minor Issues,6,3.84,J
+846,Shane Wang,HVAC,Advanced,Available,Healthy,2,2.4,NULL
+848,Brooke David,Heavy Machinery Operation,Beginner,Available,Healthy,1,0.8,C
+849,Crystal Lucero,Drywall,Advanced,Available,Healthy,3,3.6,NULL
+853,Christopher Pierce,Electrical,Advanced,Available,Minor Issues,9,8.64,NULL
+855,Matthew Sherman,Electrical,Intermediate,Available,Minor Issues,1,0.8,D
+856,Samantha Thompson,Landscaping,Advanced,Available,Minor Issues,10,9.6,NULL
+858,Tracy Gallegos,Electrical,Beginner,Available,Minor Issues,5,3.2,NULL
+859,Monica Hoover,HVAC,Intermediate,Available,Major Issues,1,0.5,J
+864,Lisa Hogan,Heavy Machinery Operation,Advanced,Available,Minor Issues,10,9.6,NULL
+865,Lisa Howell,Carpentry,Advanced,Available,Minor Issues,4,3.84,H
+868,Stephanie Stewart,Drywall,Beginner,Available,Healthy,2,1.6,NULL
+870,Anthony Hogan,Roofing,Intermediate,Available,Major Issues,5,2.5,A
+871,Charlotte Duncan,Roofing,Intermediate,Available,Minor Issues,5,4.0,E
+876,Carrie Cobb,Landscaping,Beginner,Available,Minor Issues,1,0.64,E
+878,Glenn Webster,Carpentry,Intermediate,Available,Major Issues,7,3.5,E
+879,Vicki Johnson,Plumbing,Beginner,Available,Healthy,2,1.6,NULL
+880,Zachary Graham,HVAC,Intermediate,Available,Major Issues,3,1.5,C
+881,Christina Howe,Plumbing,Advanced,Available,Minor Issues,6,5.76,NULL
+882,Steven Collins,Electrical,Beginner,Available,Healthy,4,3.2,NULL
+886,David Mcmahon,Landscaping,Intermediate,Available,Minor Issues,6,4.8,NULL
+887,Michael Roberts,Landscaping,Intermediate,Available,Healthy,6,6.0,NULL
+888,Monique Martinez,Landscaping,Advanced,Available,Minor Issues,1,0.96,NULL
+890,Benjamin Miller,Carpentry,Advanced,Available,Minor Issues,1,0.96,D
+891,Andrew Warren,Roofing,Intermediate,Available,Healthy,4,4.0,F
+896,John Scott,Electrical,Beginner,Available,Minor Issues,9,5.76,G
+899,Victor Nguyen,Heavy Machinery Operation,Advanced,Available,Minor Issues,2,1.92,NULL
+900,Kelsey Johnston PhD,Roofing,Intermediate,Available,Healthy,9,9.0,C
+901,Gloria Swanson,Carpentry,Advanced,Available,Major Issues,6,3.6,NULL
+907,Dawn Braun,Electrical,Intermediate,Available,Minor Issues,2,1.6,I
+911,Jason Parker,Drywall,Intermediate,Available,Healthy,10,10.0,NULL
+912,Paige Lyons,Flooring,Beginner,Available,Minor Issues,7,4.48,G
+914,Sheri Webb,Heavy Machinery Operation,Intermediate,Available,Minor Issues,9,7.2,NULL
+915,Jamie Foster,Electrical,Beginner,Available,Healthy,1,0.8,NULL
+917,Gina Parker,Carpentry,Beginner,Available,Major Issues,7,2.8,NULL
+919,Elizabeth Wood,Roofing,Intermediate,Available,Minor Issues,4,3.2,J
+920,Scott Garcia,Electrical,Intermediate,Available,Major Issues,3,1.5,C
+921,Erika Kaiser,Roofing,Intermediate,Available,Minor Issues,1,0.8,NULL
+922,Stephanie Campbell,Flooring,Intermediate,Available,Minor Issues,7,5.6,C
+927,Dominic Gibson,Heavy Machinery Operation,Beginner,Available,Major Issues,3,1.2,D
+929,Denise Johnson,HVAC,Advanced,Available,Healthy,9,10.8,B
+930,Debra Murphy,Roofing,Intermediate,Available,Minor Issues,9,7.2,C
+933,Anthony Patel,Drywall,Advanced,Available,Minor Issues,8,7.68,B
+934,Michael Lopez,Flooring,Advanced,Available,Healthy,3,3.6,F
+936,Pamela Rodriguez,Electrical,Intermediate,Available,Minor Issues,10,8.0,NULL
+937,Christopher Graham,Carpentry,Intermediate,Available,Major Issues,7,3.5,NULL
+938,Edwin Swanson,Drywall,Beginner,Available,Minor Issues,1,0.64,NULL
+942,Mrs. Tara Michael MD,Plumbing,Beginner,Available,Major Issues,8,3.2,F
+943,Monique Perkins,Plumbing,Advanced,Available,Healthy,4,4.8,NULL
+949,Brenda Dixon,Drywall,Advanced,Available,Healthy,10,12.0,NULL
+950,Theresa Owens,Roofing,Advanced,Available,Major Issues,8,4.8,H
+951,Peggy Jackson,Plumbing,Beginner,Available,Minor Issues,6,3.84,F
+952,Joe Tran,Carpentry,Advanced,Available,Minor Issues,1,0.96,NULL
+960,Laura Espinoza,Carpentry,Advanced,Available,Healthy,6,7.2,NULL
+961,Paul Rodriguez,Roofing,Intermediate,Available,Minor Issues,5,4.0,NULL
+965,Craig Jordan,Carpentry,Advanced,Available,Major Issues,8,4.8,F
+968,Mr. Kevin Castillo,Plumbing,Advanced,Available,Major Issues,2,1.2,NULL
+971,Eugene Wilcox,Heavy Machinery Operation,Beginner,Available,Healthy,3,2.4,NULL
+972,Olivia Ibarra,Heavy Machinery Operation,Beginner,Available,Healthy,7,5.6,NULL
+976,Katelyn Carter,Flooring,Intermediate,Available,Major Issues,4,2.0,A
+979,Christopher Butler,Plumbing,Advanced,Available,Healthy,6,7.2,G
+980,Anthony Joseph,Painting,Advanced,Available,Healthy,5,6.0,NULL
+981,Jessica Savage,Carpentry,Intermediate,Available,Minor Issues,9,7.2,NULL
+983,Rebecca King,Landscaping,Advanced,Available,Minor Issues,1,0.96,J
+984,Ashley Norton,Roofing,Advanced,Available,Healthy,6,7.2,I
+985,Victoria Evans,Roofing,Beginner,Available,Minor Issues,4,2.56,NULL
+987,Stacey Morton,HVAC,Beginner,Available,Major Issues,8,3.2,NULL
+988,Anna Miller,Painting,Beginner,Available,Healthy,6,4.8,NULL
+991,Randall Love,Roofing,Advanced,Available,Major Issues,10,6.0,NULL
+992,James Collins,Drywall,Beginner,Available,Healthy,1,0.8,A
+994,Alejandra Lopez,Carpentry,Intermediate,Available,Healthy,5,5.0,NULL
+996,Daniel Pearson,Plumbing,Beginner,Available,Healthy,7,5.6,NULL
+997,Shawn Mitchell,Carpentry,Intermediate,Available,Minor Issues,8,6.4,NULL
+1002,Sarah Lambert,Plumbing,Intermediate,Available,Healthy,3,3.0,NULL
+1004,Sabrina Smith,Landscaping,Advanced,Available,Healthy,2,2.4,I
+1005,Michael Bennett,Flooring,Intermediate,Available,Minor Issues,2,1.6,A
+1006,Mrs. Christine Brennan DVM,Drywall,Advanced,Available,Minor Issues,10,9.6,G
+1007,Cody Rivera MD,Heavy Machinery Operation,Intermediate,Available,Healthy,9,9.0,NULL
+1008,Rachel Boone,HVAC,Advanced,Available,Healthy,10,12.0,NULL
+1011,Desiree Haley,Electrical,Advanced,Available,Minor Issues,1,0.96,A
+1015,Tony Simmons,Drywall,Intermediate,Available,Healthy,10,10.0,J
+1017,Heather Moore,HVAC,Intermediate,Available,Major Issues,4,2.0,G
+1020,Edward Boone,HVAC,Intermediate,Available,Major Issues,1,0.5,NULL
+1021,Jermaine Thornton,Carpentry,Beginner,Available,Healthy,10,8.0,NULL
+1022,Robert Guzman,Painting,Intermediate,Available,Healthy,9,9.0,NULL
+1023,Emily Ferrell,Drywall,Beginner,Available,Healthy,4,3.2,NULL
+1025,Glenn Sullivan,Flooring,Beginner,Available,Minor Issues,4,2.56,A
+1026,Courtney Singleton,Plumbing,Advanced,Available,Minor Issues,1,0.96,D
+1027,Lauren Wolfe,Flooring,Advanced,Available,Healthy,2,2.4,H
+1028,Wendy Sparks,Painting,Intermediate,Available,Minor Issues,4,3.2,B
+1029,Michael Brown,Painting,Intermediate,Available,Major Issues,3,1.5,NULL
+1031,Justin Middleton,Carpentry,Intermediate,Available,Major Issues,6,3.0,NULL
+1032,Olivia Elliott,Landscaping,Beginner,Available,Minor Issues,8,5.12,NULL
+1033,David Wilson,Drywall,Advanced,Available,Minor Issues,6,5.76,NULL
+1035,Christopher Miller,Carpentry,Intermediate,Available,Major Issues,3,1.5,F
+1036,Kayla Murphy,Plumbing,Advanced,Available,Major Issues,2,1.2,H
+1037,Randy Walker,Landscaping,Intermediate,Available,Healthy,3,3.0,NULL
+1038,Margaret Valentine,Landscaping,Intermediate,Available,Healthy,4,4.0,NULL
+1041,Katie Smith,HVAC,Advanced,Available,Major Issues,7,4.2,B
+1042,Cathy White,Flooring,Intermediate,Available,Healthy,5,5.0,I
+1045,Jenny Murray,HVAC,Advanced,Available,Minor Issues,7,6.72,NULL
+1048,Kristopher Wright,Landscaping,Advanced,Available,Major Issues,3,1.8,NULL
+1049,Sara Little,Drywall,Intermediate,Available,Major Issues,10,5.0,NULL
+1051,David Mcpherson,Electrical,Beginner,Available,Minor Issues,9,5.76,NULL
+1053,Tara Jones,Painting,Beginner,Available,Major Issues,8,3.2,NULL
+1054,Timothy Hernandez,Drywall,Intermediate,Available,Healthy,1,1.0,NULL
+1055,Jessica Henry,Heavy Machinery Operation,Beginner,Available,Major Issues,6,2.4,J
+1056,Thomas Garcia,Roofing,Advanced,Available,Minor Issues,2,1.92,I
+1058,Mark Andrews,Drywall,Advanced,Available,Minor Issues,2,1.92,C
+1065,Michael Porter,Roofing,Beginner,Available,Major Issues,6,2.4,I
+1066,Michael Castillo,Plumbing,Intermediate,Available,Major Issues,5,2.5,NULL
+1068,David Bond,Heavy Machinery Operation,Intermediate,Available,Minor Issues,9,7.2,NULL
+1070,Brandon Li,HVAC,Beginner,Available,Healthy,9,7.2,NULL
+1071,Kathryn Reed,Electrical,Advanced,Available,Healthy,7,8.4,NULL
+1074,Morgan Waters,Drywall,Intermediate,Available,Minor Issues,6,4.8,H
+1075,Michael Beltran,Flooring,Beginner,Available,Major Issues,5,2.0,NULL
+1076,Scott Cole,Carpentry,Advanced,Available,Healthy,3,3.6,NULL
+1077,Amy Montgomery,Heavy Machinery Operation,Intermediate,Available,Minor Issues,5,4.0,F
+1078,Caleb Brown,HVAC,Intermediate,Available,Minor Issues,5,4.0,NULL
+1079,Pamela Jackson,Roofing,Advanced,Available,Minor Issues,7,6.72,E
+1081,Patty Holmes,Heavy Machinery Operation,Beginner,Available,Major Issues,2,0.8,F
+1084,Caitlin Hood,Plumbing,Advanced,Available,Healthy,9,10.8,NULL
+1093,Justin Mccormick,Drywall,Beginner,Available,Minor Issues,7,4.48,NULL
+1096,Shelly Thomas,Plumbing,Advanced,Available,Minor Issues,8,7.68,NULL
+1098,Duane Estrada,Drywall,Intermediate,Available,Major Issues,10,5.0,B
+1100,Katherine Brown,HVAC,Beginner,Available,Minor Issues,6,3.84,NULL
+1101,Lisa Young,Landscaping,Beginner,Available,Healthy,4,3.2,NULL
+1102,Susan Bolton,HVAC,Intermediate,Available,Major Issues,2,1.0,NULL
+1103,Joseph Pierce,Electrical,Advanced,Available,Major Issues,7,4.2,I
+1104,Elizabeth Perez,Roofing,Beginner,Available,Healthy,8,6.4,NULL
+1105,Lacey Bartlett,Painting,Beginner,Available,Minor Issues,2,1.28,NULL
+1106,Kari Horn,Painting,Advanced,Available,Minor Issues,4,3.84,NULL
+1107,Michael Ortiz,Roofing,Beginner,Available,Healthy,7,5.6,NULL
+1109,Cody Rice,Electrical,Intermediate,Available,Major Issues,6,3.0,NULL
+1110,Lauren Bell,Drywall,Intermediate,Available,Major Issues,3,1.5,NULL
+1113,John Nelson,HVAC,Advanced,Available,Healthy,9,10.8,NULL
+1114,Steven Davis,Flooring,Intermediate,Available,Major Issues,1,0.5,NULL
+1115,James Sherman,Landscaping,Intermediate,Available,Major Issues,9,4.5,NULL
+1117,Karen Gentry,Flooring,Beginner,Available,Healthy,6,4.8,NULL
+1120,Mary Le,Landscaping,Intermediate,Available,Healthy,4,4.0,NULL
+1123,Casey Perez,Heavy Machinery Operation,Intermediate,Available,Major Issues,4,2.0,NULL
+1124,Patty Allen,Carpentry,Intermediate,Available,Minor Issues,4,3.2,NULL
+1125,Jennifer Bryant,Drywall,Beginner,Available,Minor Issues,4,2.56,D
+1126,Aaron Williams,Electrical,Beginner,Available,Healthy,9,7.2,NULL
+1129,Brandon Lopez,HVAC,Beginner,Available,Minor Issues,2,1.28,A
+1130,April Owens,Painting,Beginner,Available,Major Issues,6,2.4,C
+1132,Thomas Boyer,Painting,Advanced,Available,Healthy,4,4.8,NULL
+1133,Michael Burke,Drywall,Advanced,Available,Healthy,6,7.2,NULL
+1135,Alicia Garcia,Plumbing,Intermediate,Available,Minor Issues,4,3.2,NULL
+1141,Karen Whitehead,Drywall,Intermediate,Available,Healthy,8,8.0,NULL
+1142,Ronald Smith,Electrical,Intermediate,Available,Healthy,9,9.0,NULL
+1143,Jaclyn Perez,Carpentry,Advanced,Available,Healthy,5,6.0,NULL
+1144,Amber Adams,HVAC,Intermediate,Available,Minor Issues,7,5.6,NULL
+1145,Nicholas Peters,Electrical,Beginner,Available,Healthy,10,8.0,NULL
+1148,Lindsey Medina,HVAC,Beginner,Available,Minor Issues,4,2.56,G
+1150,Miranda Miller,Carpentry,Beginner,Available,Major Issues,2,0.8,NULL
+1155,Joshua Lopez,Plumbing,Advanced,Available,Healthy,6,7.2,NULL
+1162,Tracy Chapman,Roofing,Beginner,Available,Minor Issues,4,2.56,D
+1164,Mr. George Sanchez,Drywall,Beginner,Available,Minor Issues,4,2.56,D
+1165,Robert Fowler,Landscaping,Advanced,Available,Major Issues,6,3.6,NULL
+1167,Heidi Cooper,Landscaping,Advanced,Available,Healthy,3,3.6,NULL
+1168,Toni Robinson,Plumbing,Advanced,Available,Healthy,8,9.6,NULL
+1170,Jonathan Brown,Drywall,Advanced,Available,Healthy,3,3.6,E
+1173,Ronald Lopez,Carpentry,Advanced,Available,Healthy,6,7.2,NULL
+1175,Justin Holland,Roofing,Advanced,Available,Major Issues,9,5.4,NULL
+1179,Elizabeth Roberts,Drywall,Advanced,Available,Minor Issues,8,7.68,NULL
+1181,Veronica Snyder,Flooring,Advanced,Available,Healthy,3,3.6,NULL
+1182,Michael Camacho,Carpentry,Advanced,Available,Healthy,8,9.6,NULL
+1183,Victoria Williams,HVAC,Beginner,Available,Minor Issues,1,0.64,E
+1186,Rebecca Barrera,Drywall,Beginner,Available,Healthy,6,4.8,NULL
+1190,Jeffrey Mayer,Landscaping,Intermediate,Available,Minor Issues,7,5.6,NULL
+1191,Christy Smith,Roofing,Advanced,Available,Major Issues,8,4.8,H
+1192,Jaime Castillo,Plumbing,Beginner,Available,Major Issues,3,1.2,C
+1193,Alan Thomas,Drywall,Advanced,Available,Minor Issues,3,2.88,NULL
+1197,Natalie Wall,Plumbing,Intermediate,Available,Minor Issues,1,0.8,NULL
+1198,Matthew Harris,Drywall,Beginner,Available,Major Issues,3,1.2,NULL
+1199,Andrew Carey,Carpentry,Intermediate,Available,Minor Issues,7,5.6,NULL
+1203,Michael Hoffman,Roofing,Beginner,Available,Healthy,5,4.0,NULL
+1204,Sarah Henderson,Landscaping,Intermediate,Available,Major Issues,6,3.0,H
+1206,Melissa Martinez,Electrical,Advanced,Available,Healthy,2,2.4,NULL
+1208,Katherine Ewing,Painting,Advanced,Available,Healthy,4,4.8,NULL
+1212,Marvin Anderson,Roofing,Beginner,Available,Healthy,8,6.4,NULL
+1213,Nathan Avery,HVAC,Beginner,Available,Minor Issues,4,2.56,NULL
+1214,Stephen Cline,Drywall,Intermediate,Available,Major Issues,1,0.5,J
+1217,Sylvia Hunt,Landscaping,Beginner,Available,Major Issues,2,0.8,NULL
+1220,Kathy Hernandez,Heavy Machinery Operation,Advanced,Available,Major Issues,9,5.4,NULL
+1222,Tammy Walsh,Drywall,Advanced,Available,Major Issues,2,1.2,NULL
+1224,Ashley Martin,Roofing,Beginner,Available,Minor Issues,5,3.2,C
+1228,Marisa Bell,Heavy Machinery Operation,Beginner,Available,Healthy,3,2.4,NULL
+1229,Gail Lowe,Landscaping,Beginner,Available,Minor Issues,4,2.56,NULL
+1231,Barbara Sexton,Drywall,Intermediate,Available,Healthy,6,6.0,A
+1234,Tina Torres,Heavy Machinery Operation,Intermediate,Available,Minor Issues,10,8.0,NULL
+1236,Martin Norris,HVAC,Beginner,Available,Major Issues,1,0.4,A
+1238,Diana West,Electrical,Intermediate,Available,Minor Issues,2,1.6,A
+1239,Cody Lopez,Painting,Beginner,Available,Healthy,5,4.0,NULL
+1241,Jason Smith,Painting,Advanced,Available,Minor Issues,2,1.92,NULL
+1244,Douglas Harvey,Roofing,Advanced,Available,Healthy,7,8.4,F
+1245,Daniel Love,Roofing,Advanced,Available,Minor Issues,10,9.6,NULL
+1252,Kevin Monroe,Heavy Machinery Operation,Beginner,Available,Minor Issues,7,4.48,A
+1253,Anthony Santos,Roofing,Beginner,Available,Healthy,5,4.0,NULL
+1255,Melissa Good,Heavy Machinery Operation,Advanced,Available,Minor Issues,2,1.92,J
+1256,Rhonda Cervantes,Painting,Beginner,Available,Major Issues,1,0.4,NULL
+1257,William Wood,HVAC,Beginner,Available,Minor Issues,8,5.12,NULL
+1258,Angela Stanley,Carpentry,Advanced,Available,Major Issues,4,2.4,NULL
+1259,Jill Peters,Electrical,Intermediate,Available,Minor Issues,3,2.4,NULL
+1263,James Davis,Flooring,Beginner,Available,Minor Issues,1,0.64,NULL
+1264,Anthony Vargas,Roofing,Beginner,Available,Healthy,3,2.4,NULL
+1266,Wendy Golden,HVAC,Advanced,Available,Minor Issues,8,7.68,NULL
+1272,Charles Burke,Painting,Intermediate,Available,Minor Issues,8,6.4,B
+1273,Caitlin Stevens,Electrical,Intermediate,Available,Healthy,6,6.0,E
+1275,Michael Yang,HVAC,Intermediate,Available,Major Issues,9,4.5,E
+1276,Lisa Schmidt,HVAC,Intermediate,Available,Healthy,3,3.0,NULL
+1277,Thomas Townsend,HVAC,Intermediate,Available,Healthy,10,10.0,G
+1278,Janice Elliott,Carpentry,Intermediate,Available,Healthy,7,7.0,NULL
+1279,Barbara Smith,Plumbing,Beginner,Available,Major Issues,2,0.8,D
+1281,James Miller,Flooring,Beginner,Available,Minor Issues,8,5.12,NULL
+1282,Michael Hernandez,Painting,Beginner,Available,Major Issues,4,1.6,C
+1283,Danny Phillips,Plumbing,Intermediate,Available,Minor Issues,6,4.8,NULL
+1284,Denise Allen,Electrical,Advanced,Available,Healthy,4,4.8,E
+1285,Gary Mason,Landscaping,Advanced,Available,Minor Issues,10,9.6,NULL
+1287,Crystal Shelton,Electrical,Beginner,Available,Healthy,10,8.0,NULL
+1288,Dylan Anderson,Roofing,Intermediate,Available,Minor Issues,2,1.6,NULL
+1289,Denise Yang,Electrical,Beginner,Available,Major Issues,9,3.6,NULL
+1291,Jennifer Patel,Roofing,Intermediate,Available,Major Issues,9,4.5,NULL
+1292,Justin Collier,Drywall,Intermediate,Available,Healthy,1,1.0,A
+1293,Elizabeth Gonzalez,HVAC,Intermediate,Available,Minor Issues,5,4.0,NULL
+1295,Karen Morales,Drywall,Beginner,Available,Minor Issues,5,3.2,A
+1298,Jesse Turner,Drywall,Beginner,Available,Major Issues,1,0.4,H
+1299,Timothy Skinner,Carpentry,Advanced,Available,Healthy,1,1.2,NULL
+1300,Brian Mills,Plumbing,Intermediate,Available,Healthy,3,3.0,NULL
+1304,Monica Banks,HVAC,Intermediate,Available,Major Issues,10,5.0,H
+1308,Kayla Smith,Electrical,Beginner,Available,Healthy,5,4.0,F
+1310,Garrett Woods,Drywall,Advanced,Available,Major Issues,10,6.0,NULL
+1311,Breanna Lamb,Carpentry,Intermediate,Available,Minor Issues,8,6.4,NULL
+1312,Bruce Johnson,Electrical,Advanced,Available,Major Issues,3,1.8,H
+1314,Timothy Mcdaniel,HVAC,Beginner,Available,Healthy,2,1.6,NULL
+1315,Donna Stevenson,Plumbing,Advanced,Available,Healthy,7,8.4,NULL
+1320,Ronald Nunez,Plumbing,Intermediate,Available,Minor Issues,6,4.8,NULL
+1324,Jennifer Williams,Drywall,Beginner,Available,Minor Issues,10,6.4,NULL
+1327,Lindsey Torres,Flooring,Intermediate,Available,Healthy,9,9.0,NULL
+1328,Misty Davis,Roofing,Intermediate,Available,Minor Issues,7,5.6,NULL
+1329,Dawn Cruz,HVAC,Intermediate,Available,Major Issues,5,2.5,D
+1330,Chelsea Haynes,Heavy Machinery Operation,Advanced,Available,Major Issues,1,0.6,NULL
+1333,Brooke Vazquez,Heavy Machinery Operation,Advanced,Available,Minor Issues,2,1.92,NULL
+1334,Yolanda Wong,HVAC,Advanced,Available,Healthy,2,2.4,J
+1335,Daniel Mills,Carpentry,Advanced,Available,Healthy,9,10.8,NULL
+1339,Tyler West,Roofing,Beginner,Available,Minor Issues,7,4.48,NULL
+1341,Mark Love,Plumbing,Advanced,Available,Minor Issues,5,4.8,NULL
+1344,David Turner,Electrical,Beginner,Available,Minor Issues,8,5.12,NULL
+1347,Renee Thomas,HVAC,Intermediate,Available,Healthy,5,5.0,D
+1350,Caroline Bailey,Plumbing,Advanced,Available,Minor Issues,4,3.84,C
+1355,Joseph Davis Jr.,HVAC,Beginner,Available,Healthy,4,3.2,NULL
+1356,Ronald Allen,Roofing,Advanced,Available,Major Issues,6,3.6,NULL
+1357,Randall Munoz,HVAC,Beginner,Available,Healthy,9,7.2,NULL
+1361,Stephanie Rocha,Electrical,Advanced,Available,Major Issues,3,1.8,NULL
+1364,Daniel Lynch,Painting,Beginner,Available,Minor Issues,10,6.4,NULL
+1365,Jonathan Morales,Electrical,Advanced,Available,Healthy,2,2.4,G
+1367,Lori Hahn,Painting,Intermediate,Available,Minor Issues,4,3.2,NULL
+1368,Jamie Ortega,HVAC,Beginner,Available,Major Issues,4,1.6,NULL
+1372,Susan Gonzales,Painting,Intermediate,Available,Minor Issues,5,4.0,NULL
+1376,Alexandria Kelley,Roofing,Beginner,Available,Minor Issues,10,6.4,E
+1378,Eric Deleon,Electrical,Intermediate,Available,Healthy,7,7.0,I
+1379,Michael Smith,Carpentry,Intermediate,Available,Major Issues,2,1.0,NULL
+1380,Kenneth Vargas,Heavy Machinery Operation,Intermediate,Available,Minor Issues,5,4.0,NULL
+1382,Allison Collins,Electrical,Beginner,Available,Major Issues,1,0.4,I
+1383,John Hunter,Roofing,Intermediate,Available,Healthy,8,8.0,NULL
+1386,Heather Pittman,Plumbing,Intermediate,Available,Major Issues,5,2.5,NULL
+1388,Scott Beck,Drywall,Intermediate,Available,Major Issues,9,4.5,D
+1390,Charles Doyle,Plumbing,Intermediate,Available,Healthy,9,9.0,D
+1391,Matthew Wheeler,Painting,Advanced,Available,Minor Issues,5,4.8,NULL
+1393,Jacqueline Sanchez,Drywall,Beginner,Available,Minor Issues,9,5.76,B
+1394,Jeffrey Lynn,Drywall,Beginner,Available,Healthy,5,4.0,NULL
+1395,Brianna Barber,Drywall,Advanced,Available,Major Issues,4,2.4,NULL
+1400,Christina Allen,Heavy Machinery Operation,Advanced,Available,Minor Issues,1,0.96,J
+1403,Christine Mckenzie,Painting,Beginner,Available,Healthy,2,1.6,F
+1404,Ricardo Perry,Drywall,Advanced,Available,Major Issues,4,2.4,NULL
+1408,Sydney Hill,Painting,Advanced,Available,Minor Issues,7,6.72,NULL
+1409,Karen Diaz,Carpentry,Intermediate,Available,Minor Issues,1,0.8,NULL
+1412,Kelly Short,Electrical,Beginner,Available,Healthy,3,2.4,I
+1413,Anne Benson,Heavy Machinery Operation,Advanced,Available,Healthy,2,2.4,NULL
+1416,Nancy Tran,Drywall,Beginner,Available,Healthy,1,0.8,C
+1423,Curtis Carney,Roofing,Advanced,Available,Minor Issues,5,4.8,A
+1424,Alec Zavala,Drywall,Beginner,Available,Minor Issues,3,1.92,I
+1425,Jessica Mckay,Landscaping,Intermediate,Available,Healthy,10,10.0,H
+1426,Lisa Walker,Carpentry,Beginner,Available,Healthy,3,2.4,D
+1430,Renee Cordova,Plumbing,Advanced,Available,Major Issues,3,1.8,NULL
+1431,John Whitaker,HVAC,Advanced,Available,Major Issues,7,4.2,NULL
+1432,Scott Boyd,Flooring,Advanced,Available,Major Issues,7,4.2,E
+1434,Brenda Henderson,Drywall,Advanced,Available,Healthy,1,1.2,NULL
+1435,Andrea Guerrero,Painting,Advanced,Available,Major Issues,3,1.8,NULL
+1436,Katelyn Allen,Electrical,Intermediate,Available,Minor Issues,10,8.0,NULL
+1438,Trevor Sullivan,Carpentry,Intermediate,Available,Major Issues,4,2.0,NULL
+1441,Matthew Houston,Painting,Advanced,Available,Healthy,8,9.6,B
+1442,Joseph Nelson,Flooring,Intermediate,Available,Minor Issues,7,5.6,E
+1444,Shirley Maddox,Roofing,Intermediate,Available,Healthy,6,6.0,NULL
+1445,Angela Moreno,Flooring,Intermediate,Available,Minor Issues,9,7.2,E
+1446,Robert Hudson,Roofing,Advanced,Available,Major Issues,9,5.4,NULL
+1447,Jennifer Perez,Carpentry,Intermediate,Available,Healthy,7,7.0,I
+1448,Sheila Campos MD,Painting,Beginner,Available,Minor Issues,4,2.56,NULL
+1449,Cheryl Wood,Heavy Machinery Operation,Intermediate,Available,Healthy,5,5.0,H
+1450,Penny Hansen,Carpentry,Beginner,Available,Minor Issues,5,3.2,NULL
+1453,Jennifer Garrison,Flooring,Advanced,Available,Healthy,1,1.2,C
+1454,Tina Day,Drywall,Beginner,Available,Minor Issues,10,6.4,NULL
+1455,Katie Smith,Roofing,Intermediate,Available,Major Issues,7,3.5,J
+1456,Ms. Gina Ashley,Drywall,Advanced,Available,Healthy,9,10.8,J
+1460,John Kennedy,Painting,Beginner,Available,Major Issues,7,2.8,NULL
+1465,Nicole Chavez,HVAC,Beginner,Available,Major Issues,9,3.6,NULL
+1467,Shawn Hall,Heavy Machinery Operation,Beginner,Available,Minor Issues,9,5.76,NULL
+1469,Keith Ford,Flooring,Beginner,Available,Healthy,8,6.4,NULL
+1476,Jerry Sheppard,Painting,Advanced,Available,Healthy,6,7.2,NULL
+1477,Melanie Hughes,Landscaping,Advanced,Available,Healthy,3,3.6,NULL
+1478,Kristina Carr,Carpentry,Beginner,Available,Minor Issues,1,0.64,NULL
+1479,Kenneth Werner,Electrical,Advanced,Available,Major Issues,3,1.8,F
+1480,David Caldwell,Flooring,Intermediate,Available,Major Issues,10,5.0,I
+1484,Dorothy Garcia,Roofing,Intermediate,Available,Healthy,8,8.0,NULL
+1485,Javier Carr,Plumbing,Beginner,Available,Major Issues,1,0.4,NULL
+1488,Brenda Taylor,Electrical,Advanced,Available,Healthy,2,2.4,NULL
+1489,Debbie George,Heavy Machinery Operation,Advanced,Available,Healthy,9,10.8,NULL
+1490,Brian Taylor,Heavy Machinery Operation,Beginner,Available,Minor Issues,6,3.84,A
+1492,Ashley Delgado,Roofing,Intermediate,Available,Healthy,5,5.0,NULL
+1494,Michael Davis,Painting,Advanced,Available,Minor Issues,2,1.92,B
+1495,Michelle Vasquez,Heavy Machinery Operation,Intermediate,Available,Major Issues,1,0.5,B
+1497,Samantha Anderson,Carpentry,Intermediate,Available,Major Issues,3,1.5,NULL
+1500,Nicholas Turner,Roofing,Beginner,Available,Healthy,4,3.2,J
+1501,Ricky Carter,Heavy Machinery Operation,Intermediate,Available,Minor Issues,3,2.4,D
+1503,Laura Fowler,Flooring,Beginner,Available,Minor Issues,7,4.48,E
+1504,Michael Hood,Landscaping,Beginner,Available,Major Issues,7,2.8,NULL
+1508,Brittany Jackson,Roofing,Intermediate,Available,Healthy,3,3.0,G
+1513,Shannon Daugherty,Plumbing,Beginner,Available,Major Issues,3,1.2,NULL
+1514,Gary Howard,Landscaping,Intermediate,Available,Major Issues,4,2.0,NULL
+1518,Matthew Martinez,Landscaping,Beginner,Available,Major Issues,10,4.0,NULL
+1521,Rebecca Johnston,Electrical,Advanced,Available,Minor Issues,5,4.8,NULL
+1523,Corey Pitts,Roofing,Advanced,Available,Minor Issues,6,5.76,B
+1524,Andrew Bernard,Flooring,Advanced,Available,Healthy,4,4.8,H
+1525,Stephanie Jackson,Painting,Advanced,Available,Healthy,8,9.6,NULL
+1526,Christopher Little,Roofing,Advanced,Available,Minor Issues,5,4.8,H
+1528,Ronald Ford,Carpentry,Intermediate,Available,Healthy,6,6.0,NULL
+1533,Jonathan Proctor,Plumbing,Advanced,Available,Minor Issues,10,9.6,NULL
+1534,Deborah Moore,Painting,Intermediate,Available,Minor Issues,5,4.0,NULL
+1535,Amanda Mitchell,Painting,Intermediate,Available,Healthy,7,7.0,NULL
+1537,Melanie Wilson,Carpentry,Intermediate,Available,Minor Issues,5,4.0,NULL
+1539,Mr. David Edwards,Electrical,Advanced,Available,Minor Issues,6,5.76,NULL
+1540,Jennifer Davis,Heavy Machinery Operation,Intermediate,Available,Major Issues,2,1.0,C
+1541,Jessica Castillo,HVAC,Beginner,Available,Healthy,6,4.8,B
+1545,Jimmy Mendoza,HVAC,Advanced,Available,Minor Issues,3,2.88,NULL
+1547,Christopher Harrell,Carpentry,Beginner,Available,Major Issues,7,2.8,B
+1548,Amy Bennett,Carpentry,Intermediate,Available,Minor Issues,10,8.0,NULL
+1550,Natalie Williams,Flooring,Advanced,Available,Healthy,1,1.2,E
+1551,James Wong,Plumbing,Advanced,Available,Minor Issues,8,7.68,NULL
+1555,Courtney Mitchell,Plumbing,Beginner,Available,Minor Issues,6,3.84,NULL
+1557,Carrie Sanchez,Drywall,Advanced,Available,Major Issues,10,6.0,I
+1558,Janice Andrews,Electrical,Advanced,Available,Healthy,5,6.0,NULL
+1559,Kristina Martin,HVAC,Intermediate,Available,Major Issues,1,0.5,NULL
+1563,Jennifer Martinez,Carpentry,Beginner,Available,Healthy,1,0.8,A
+1564,Craig Perez,Electrical,Intermediate,Available,Major Issues,4,2.0,NULL
+1569,Connor Lopez,HVAC,Intermediate,Available,Healthy,2,2.0,F
+1570,Guy Jenkins,Electrical,Intermediate,Available,Major Issues,4,2.0,NULL
+1572,Kathleen Davidson,HVAC,Intermediate,Available,Major Issues,8,4.0,C
+1573,Stephanie Gray,Electrical,Intermediate,Available,Minor Issues,3,2.4,C
+1574,Anthony Adams,Roofing,Intermediate,Available,Healthy,6,6.0,NULL
+1576,Clinton Moore,Painting,Beginner,Available,Major Issues,5,2.0,NULL
+1578,Victor Lopez MD,Heavy Machinery Operation,Beginner,Available,Major Issues,5,2.0,G
+1579,Kenneth Lewis,Plumbing,Intermediate,Available,Healthy,7,7.0,E
+1580,Patricia Santos,Landscaping,Advanced,Available,Major Issues,1,0.6,NULL
+1582,Jeffrey Contreras,Flooring,Beginner,Available,Healthy,7,5.6,C
+1585,Janet Gibson,Electrical,Beginner,Available,Major Issues,8,3.2,NULL
+1586,Kimberly Grimes,HVAC,Intermediate,Available,Major Issues,1,0.5,D
+1587,Jesse Morgan,Flooring,Beginner,Available,Healthy,4,3.2,F
+1589,Aaron Manning,Landscaping,Beginner,Available,Major Issues,1,0.4,A
+1590,Elizabeth Williams,HVAC,Beginner,Available,Major Issues,2,0.8,NULL
+1591,Robert Jackson,Heavy Machinery Operation,Advanced,Available,Major Issues,4,2.4,NULL
+1593,Michael Pitts,Roofing,Intermediate,Available,Major Issues,9,4.5,J
+1600,Melanie Boyle,Electrical,Intermediate,Available,Minor Issues,1,0.8,NULL
+1601,Shannon Becker,Heavy Machinery Operation,Intermediate,Available,Healthy,6,6.0,NULL
+1603,Nicholas Pollard,Flooring,Advanced,Available,Minor Issues,10,9.6,A
+1604,Dr. Lauren Martinez,Painting,Intermediate,Available,Minor Issues,6,4.8,NULL
+1606,Jacob Gentry,Heavy Machinery Operation,Advanced,Available,Major Issues,10,6.0,B
+1607,Carla Barber,HVAC,Advanced,Available,Healthy,5,6.0,NULL
+1608,Michelle Pearson,Drywall,Advanced,Available,Major Issues,8,4.8,NULL
+1610,Terri Little,Roofing,Intermediate,Available,Healthy,1,1.0,NULL
+1611,Sarah Thompson,Drywall,Beginner,Available,Major Issues,7,2.8,NULL
+1613,Luis Martinez,Plumbing,Intermediate,Available,Minor Issues,8,6.4,D
+1615,Amy Williams,Painting,Advanced,Available,Minor Issues,3,2.88,NULL
+1617,Cynthia Foster,Painting,Intermediate,Available,Healthy,6,6.0,NULL
+1618,Gail Murray,Heavy Machinery Operation,Advanced,Available,Minor Issues,5,4.8,B
+1619,Mark Carter,Carpentry,Intermediate,Available,Major Issues,10,5.0,B
+1620,Vicki Baker,Painting,Beginner,Available,Major Issues,6,2.4,B
+1622,Jason Phillips,Landscaping,Advanced,Available,Major Issues,4,2.4,NULL
+1623,Michelle Black,HVAC,Intermediate,Available,Minor Issues,5,4.0,NULL
+1624,Frederick Bennett,Carpentry,Beginner,Available,Minor Issues,4,2.56,J
+1626,Tamara Wheeler,Heavy Machinery Operation,Advanced,Available,Major Issues,1,0.6,E
+1628,Rodney Perez,Electrical,Intermediate,Available,Healthy,7,7.0,NULL
+1630,Mrs. Caroline Harris,Landscaping,Beginner,Available,Minor Issues,8,5.12,H
+1631,Maureen Hill,HVAC,Advanced,Available,Major Issues,6,3.6,C
+1633,Brandon Ross,Heavy Machinery Operation,Advanced,Available,Major Issues,10,6.0,NULL
+1636,Sean Mason,Carpentry,Beginner,Available,Minor Issues,9,5.76,E
+1638,Doris Castillo,Heavy Machinery Operation,Advanced,Available,Minor Issues,2,1.92,NULL
+1639,Jason Dixon,Carpentry,Advanced,Available,Major Issues,2,1.2,E
+1640,Maria Barrett,Landscaping,Beginner,Available,Major Issues,4,1.6,E
+1641,John Hurley,Flooring,Intermediate,Available,Major Issues,9,4.5,A
+1642,Natalie Cross,Flooring,Beginner,Available,Major Issues,10,4.0,NULL
+1643,Amy Jackson,Plumbing,Intermediate,Available,Major Issues,10,5.0,G
+1644,Bradley Brown,Painting,Intermediate,Available,Healthy,2,2.0,NULL
+1645,Christina Morales,Landscaping,Beginner,Available,Major Issues,10,4.0,NULL
+1646,Stephen Rice,Landscaping,Advanced,Available,Minor Issues,10,9.6,NULL
+1648,Sylvia Miller,Roofing,Advanced,Available,Healthy,8,9.6,NULL
+1655,Chelsea Gomez,Heavy Machinery Operation,Intermediate,Available,Major Issues,9,4.5,A
+1656,Jenna Williams,Flooring,Beginner,Available,Major Issues,10,4.0,NULL
+1661,Tiffany Alvarado,Drywall,Intermediate,Available,Healthy,1,1.0,NULL
+1662,Sarah Arroyo,Carpentry,Beginner,Available,Minor Issues,9,5.76,C
+1663,Nancy Martin,HVAC,Advanced,Available,Healthy,2,2.4,NULL
+1666,Andrew Jackson,Plumbing,Advanced,Available,Major Issues,4,2.4,NULL
+1672,Mary Rivera,HVAC,Intermediate,Available,Major Issues,1,0.5,NULL
+1673,Elizabeth Grimes,Drywall,Intermediate,Available,Minor Issues,10,8.0,NULL
+1674,Dawn Hogan,Electrical,Intermediate,Available,Major Issues,4,2.0,H
+1675,Jenna Patton,Drywall,Beginner,Available,Healthy,3,2.4,NULL
+1676,Kent Stevenson,Landscaping,Beginner,Available,Major Issues,4,1.6,NULL
+1677,Jeffery Gallagher,Electrical,Beginner,Available,Healthy,2,1.6,NULL
+1679,Peter Henderson,Roofing,Intermediate,Available,Healthy,3,3.0,NULL
+1681,Matthew Miller,Flooring,Advanced,Available,Major Issues,8,4.8,NULL
+1682,Justin Anderson,Flooring,Advanced,Available,Minor Issues,7,6.72,A
+1683,Laura Robinson,Plumbing,Intermediate,Available,Healthy,8,8.0,NULL
+1685,Nicholas Rosales,Roofing,Beginner,Available,Minor Issues,2,1.28,NULL
+1687,Julia Simmons,Heavy Machinery Operation,Intermediate,Available,Healthy,1,1.0,G
+1688,Jeremiah Anderson,Roofing,Advanced,Available,Major Issues,10,6.0,D
+1694,Jennifer Martin,Heavy Machinery Operation,Beginner,Available,Minor Issues,4,2.56,NULL
+1695,Carla Robertson,Landscaping,Intermediate,Available,Major Issues,3,1.5,B
+1696,Michele Lopez,Carpentry,Intermediate,Available,Major Issues,10,5.0,NULL
+1698,Timothy Vance,Flooring,Advanced,Available,Healthy,1,1.2,H
+1699,Crystal Lee,Plumbing,Advanced,Available,Minor Issues,3,2.88,NULL
+1700,Robert Mason,Heavy Machinery Operation,Advanced,Available,Healthy,4,4.8,NULL
+1703,Cory Moore,HVAC,Advanced,Available,Minor Issues,5,4.8,B
+1704,Joseph Greene,HVAC,Beginner,Available,Minor Issues,3,1.92,F
+1705,Tyler Phillips,Carpentry,Intermediate,Available,Major Issues,3,1.5,B
+1707,Kevin Conley,Painting,Beginner,Available,Minor Issues,10,6.4,E
+1709,Jason Jones,HVAC,Intermediate,Available,Major Issues,2,1.0,NULL
+1711,Sarah Johnson,Drywall,Beginner,Available,Healthy,4,3.2,NULL
+1712,Monica Powell,Painting,Intermediate,Available,Healthy,3,3.0,NULL
+1713,Shawn Quinn,Electrical,Intermediate,Available,Healthy,9,9.0,B
+1714,David Johnson,Carpentry,Advanced,Available,Healthy,2,2.4,H
+1715,Cynthia Perkins,Electrical,Advanced,Available,Major Issues,1,0.6,NULL
+1716,Shirley Butler,Painting,Advanced,Available,Minor Issues,5,4.8,J
+1718,David Mcpherson,Painting,Beginner,Available,Major Issues,10,4.0,NULL
+1720,Brian Vasquez,Roofing,Intermediate,Available,Minor Issues,7,5.6,NULL
+1722,Ryan Williams,Painting,Beginner,Available,Major Issues,1,0.4,I
+1726,Steven Shea,Electrical,Intermediate,Available,Minor Issues,8,6.4,NULL
+1727,Christopher Curtis,HVAC,Advanced,Available,Minor Issues,2,1.92,NULL
+1728,Andrea Brady,Heavy Machinery Operation,Intermediate,Available,Healthy,4,4.0,I
+1730,Thomas Conner,Landscaping,Advanced,Available,Major Issues,6,3.6,G
+1731,Gregg Brown,Electrical,Beginner,Available,Minor Issues,9,5.76,E
+1732,Alexander Taylor,Plumbing,Intermediate,Available,Major Issues,6,3.0,NULL
+1733,Jeffrey Downs DDS,Drywall,Intermediate,Available,Healthy,2,2.0,J
+1738,Melinda Griffin,Painting,Beginner,Available,Minor Issues,9,5.76,NULL
+1741,Diane Anderson,Flooring,Intermediate,Available,Minor Issues,6,4.8,NULL
+1742,Brooke Robertson,Heavy Machinery Operation,Intermediate,Available,Major Issues,6,3.0,NULL
+1743,David Fisher,Drywall,Advanced,Available,Healthy,8,9.6,C
+1745,Cassie Gill,HVAC,Intermediate,Available,Minor Issues,4,3.2,NULL
+1746,Marcus Mcfarland,Roofing,Intermediate,Available,Minor Issues,7,5.6,NULL
+1747,Marissa Johnson,Carpentry,Intermediate,Available,Healthy,10,10.0,NULL
+1748,Allen Hicks,Roofing,Beginner,Available,Major Issues,10,4.0,B
+1751,Emily Wang,Carpentry,Beginner,Available,Healthy,10,8.0,NULL
+1752,Valerie Jones,Carpentry,Intermediate,Available,Minor Issues,6,4.8,B
+1753,Samantha Hill,Painting,Advanced,Available,Minor Issues,9,8.64,NULL
+1756,George Brown,HVAC,Intermediate,Available,Healthy,8,8.0,NULL
+1757,George May,Electrical,Beginner,Available,Minor Issues,4,2.56,G
+1760,Ryan Simmons,Heavy Machinery Operation,Advanced,Available,Major Issues,5,3.0,NULL
+1761,Misty Anderson,Electrical,Advanced,Available,Healthy,10,12.0,NULL
+1768,Kent Dudley,Carpentry,Beginner,Available,Minor Issues,4,2.56,F
+1770,Lisa Palmer,Carpentry,Advanced,Available,Healthy,9,10.8,NULL
+1771,Courtney Delacruz,Roofing,Beginner,Available,Healthy,4,3.2,A
+1772,Desiree Sawyer,Painting,Intermediate,Available,Minor Issues,5,4.0,B
+1773,Thomas Long,Plumbing,Beginner,Available,Healthy,6,4.8,E
+1777,Stephanie Yates,HVAC,Beginner,Available,Major Issues,4,1.6,NULL
+1778,Frederick Lam,Electrical,Intermediate,Available,Major Issues,3,1.5,NULL
+1780,Melissa Moss,Flooring,Beginner,Available,Major Issues,8,3.2,I
+1781,Patrick Johnston,Painting,Advanced,Available,Major Issues,5,3.0,NULL
+1782,Grace Cline,Landscaping,Intermediate,Available,Major Issues,1,0.5,A
+1785,Katherine Gutierrez,Electrical,Intermediate,Available,Minor Issues,3,2.4,D
+1787,Tonya Mullins,Painting,Intermediate,Available,Minor Issues,5,4.0,A
+1788,Heather Meyer,Flooring,Intermediate,Available,Major Issues,2,1.0,J
+1789,Danielle Wallace,Heavy Machinery Operation,Advanced,Available,Major Issues,4,2.4,NULL
+1790,Christopher Brooks,Flooring,Beginner,Available,Minor Issues,10,6.4,NULL
+1791,Linda Cole,Electrical,Advanced,Available,Major Issues,2,1.2,I
+1795,Patrick Burns,Carpentry,Advanced,Available,Healthy,4,4.8,A
+1797,Jessica Wood,Flooring,Advanced,Available,Minor Issues,9,8.64,NULL
+1798,Darin Kim,Plumbing,Beginner,Available,Major Issues,1,0.4,C
+1799,Alicia Johnson,Painting,Advanced,Available,Major Issues,7,4.2,A
+1800,Michael Odonnell,Landscaping,Beginner,Available,Major Issues,9,3.6,NULL
+1805,Stephanie Williams,Roofing,Beginner,Available,Major Issues,10,4.0,C
+1808,Erica Anderson,HVAC,Beginner,Available,Major Issues,5,2.0,NULL
+1809,Cindy Gregory,Plumbing,Advanced,Available,Major Issues,6,3.6,NULL
+1810,Christina Hicks,Heavy Machinery Operation,Advanced,Available,Healthy,4,4.8,E
+1814,Russell Smith,HVAC,Beginner,Available,Healthy,9,7.2,NULL
+1815,Jaime Ryan,Carpentry,Beginner,Available,Minor Issues,1,0.64,NULL
+1816,Jessica James,Drywall,Beginner,Available,Minor Issues,3,1.92,NULL
+1818,Tanner Calderon,Plumbing,Intermediate,Available,Minor Issues,6,4.8,D
+1822,Samuel Hill,Heavy Machinery Operation,Beginner,Available,Major Issues,5,2.0,E
+1824,George Young,Flooring,Beginner,Available,Healthy,8,6.4,NULL
+1825,Jessica Brown,Heavy Machinery Operation,Intermediate,Available,Major Issues,2,1.0,NULL
+1826,Brandon Buckley,HVAC,Advanced,Available,Major Issues,8,4.8,C
+1827,Katrina Brady,Drywall,Advanced,Available,Major Issues,10,6.0,NULL
+1828,Michael Johnson,Heavy Machinery Operation,Beginner,Available,Minor Issues,7,4.48,NULL
+1830,Jenna Valdez,Heavy Machinery Operation,Intermediate,Available,Minor Issues,3,2.4,NULL
+1832,Ryan Levine,Heavy Machinery Operation,Beginner,Available,Healthy,1,0.8,NULL
+1833,Jason Lin,Electrical,Intermediate,Available,Minor Issues,8,6.4,NULL
+1837,Amanda Clark,Electrical,Beginner,Available,Healthy,1,0.8,F
+1838,Michael Butler,Roofing,Intermediate,Available,Major Issues,9,4.5,C
+1839,Jeremy Ramirez DDS,HVAC,Beginner,Available,Minor Issues,4,2.56,NULL
+1841,Veronica Garrett,Flooring,Beginner,Available,Minor Issues,4,2.56,F
+1843,Edward Nichols,Plumbing,Advanced,Available,Healthy,2,2.4,NULL
+1846,Felicia Frye,Carpentry,Intermediate,Available,Minor Issues,10,8.0,NULL
+1847,Ryan Miller,Painting,Intermediate,Available,Minor Issues,9,7.2,NULL
+1848,Justin May,Drywall,Intermediate,Available,Minor Issues,3,2.4,A
+1849,Anthony Wright,Plumbing,Beginner,Available,Minor Issues,3,1.92,NULL
+1852,Kevin Moore,Heavy Machinery Operation,Beginner,Available,Major Issues,5,2.0,NULL
+1854,Travis Chan,Drywall,Beginner,Available,Major Issues,7,2.8,NULL
+1855,Russell Randall,HVAC,Beginner,Available,Major Issues,9,3.6,NULL
+1856,Sean Armstrong,HVAC,Intermediate,Available,Healthy,2,2.0,NULL
+1858,Amanda Robertson,Landscaping,Beginner,Available,Major Issues,1,0.4,I
+1865,Holly Bass,Heavy Machinery Operation,Intermediate,Available,Major Issues,1,0.5,NULL
+1868,Charles Gross,Roofing,Beginner,Available,Healthy,7,5.6,NULL
+1871,James Higgins,Carpentry,Advanced,Available,Minor Issues,1,0.96,NULL
+1872,Nicole Garza,Landscaping,Intermediate,Available,Healthy,7,7.0,NULL
+1873,Christopher Perez,Carpentry,Intermediate,Available,Major Issues,9,4.5,NULL
+1874,Tabitha Good,Landscaping,Advanced,Available,Minor Issues,9,8.64,NULL
+1875,Arthur Williams,Carpentry,Intermediate,Available,Healthy,2,2.0,NULL
+1876,Bryan Ashley,HVAC,Beginner,Available,Minor Issues,10,6.4,E
+1878,Sean Lee,Heavy Machinery Operation,Beginner,Available,Healthy,7,5.6,J
+1879,Jody Garcia,Plumbing,Intermediate,Available,Minor Issues,6,4.8,F
+1883,Penny Greene,Flooring,Beginner,Available,Major Issues,4,1.6,NULL
+1885,Beverly Weaver,HVAC,Beginner,Available,Minor Issues,9,5.76,F
+1888,Jennifer Sparks,Flooring,Beginner,Available,Minor Issues,10,6.4,NULL
+1893,Hannah Collins,Painting,Advanced,Available,Minor Issues,6,5.76,I
+1896,Bryan Ramirez,Landscaping,Beginner,Available,Healthy,9,7.2,NULL
+1897,Charles Watson,Painting,Beginner,Available,Major Issues,10,4.0,J
+1898,Betty Davis,Heavy Machinery Operation,Advanced,Available,Minor Issues,1,0.96,I
+1899,Cindy Weiss,Electrical,Beginner,Available,Minor Issues,2,1.28,NULL
+1900,Andrew Austin,Roofing,Intermediate,Available,Major Issues,1,0.5,NULL
+1902,Marissa Underwood,HVAC,Advanced,Available,Major Issues,10,6.0,B
+1903,Derrick Montgomery,Roofing,Beginner,Available,Healthy,10,8.0,NULL
+1906,Jennifer Taylor,Heavy Machinery Operation,Beginner,Available,Minor Issues,5,3.2,NULL
+1907,James Hernandez,HVAC,Advanced,Available,Healthy,7,8.4,J
+1908,Bruce Vargas,Plumbing,Intermediate,Available,Major Issues,6,3.0,NULL
+1910,John Wilson,Carpentry,Beginner,Available,Healthy,3,2.4,NULL
+1916,Brenda Grant,Roofing,Intermediate,Available,Healthy,1,1.0,F
+1917,Stephanie Ramos,Carpentry,Intermediate,Available,Major Issues,10,5.0,NULL
+1918,Kenneth Richards,Carpentry,Intermediate,Available,Healthy,3,3.0,NULL
+1919,Sandra Young,Electrical,Beginner,Available,Major Issues,7,2.8,NULL
+1921,Alicia Chandler,HVAC,Beginner,Available,Major Issues,10,4.0,I
+1923,Mrs. April Howard,Roofing,Advanced,Available,Healthy,6,7.2,NULL
+1924,Allen Navarro,HVAC,Intermediate,Available,Major Issues,6,3.0,NULL
+1926,Gerald Krueger,Carpentry,Intermediate,Available,Minor Issues,7,5.6,NULL
+1927,Peter Whitaker,Drywall,Beginner,Available,Major Issues,4,1.6,NULL
+1928,Rachel Williams,Roofing,Beginner,Available,Healthy,1,0.8,NULL
+1929,Chris Guerrero,Carpentry,Intermediate,Available,Minor Issues,8,6.4,C
+1932,Luke Yates,Plumbing,Intermediate,Available,Minor Issues,4,3.2,NULL
+1934,Donna Lee,HVAC,Beginner,Available,Major Issues,3,1.2,NULL
+1936,Douglas Yang,Drywall,Intermediate,Available,Healthy,5,5.0,NULL
+1940,Shane Solomon,Electrical,Intermediate,Available,Minor Issues,6,4.8,NULL
+1942,Brian Smith,Heavy Machinery Operation,Advanced,Available,Major Issues,1,0.6,A
+1944,Sarah Hoffman,Landscaping,Intermediate,Available,Major Issues,5,2.5,D
+1945,Donna Flores,Carpentry,Beginner,Available,Major Issues,1,0.4,NULL
+1946,Sarah Smith,Painting,Advanced,Available,Minor Issues,9,8.64,NULL
+1948,James Mcpherson,Carpentry,Advanced,Available,Major Issues,7,4.2,NULL
+1949,John Rosario,Painting,Advanced,Available,Healthy,8,9.6,NULL
+1950,Amy Rivera,Drywall,Intermediate,Available,Minor Issues,9,7.2,NULL
+1951,David Lloyd,Flooring,Beginner,Available,Minor Issues,1,0.64,J
+1953,Willie Zamora,Painting,Advanced,Available,Major Issues,7,4.2,A
+1954,Andrew Mcintosh,Painting,Advanced,Available,Minor Issues,2,1.92,H
+1955,Zachary Maxwell,Heavy Machinery Operation,Intermediate,Available,Minor Issues,7,5.6,J
+1957,William Schroeder,Roofing,Advanced,Available,Minor Issues,7,6.72,NULL
+1959,Frederick Jensen,Painting,Advanced,Available,Minor Issues,4,3.84,G
+1961,Brandi Curry,Landscaping,Advanced,Available,Major Issues,9,5.4,NULL
+1963,Kyle Phillips,Electrical,Intermediate,Available,Healthy,7,7.0,NULL
+1965,Kiara Martin,Landscaping,Beginner,Available,Minor Issues,4,2.56,E
+1968,Justin Lewis,Plumbing,Advanced,Available,Minor Issues,4,3.84,NULL
+1969,Scott Keller,Landscaping,Intermediate,Available,Healthy,9,9.0,NULL
+1974,Samuel Fernandez,Heavy Machinery Operation,Advanced,Available,Minor Issues,8,7.68,NULL
+1976,Barry Gomez,HVAC,Advanced,Available,Healthy,4,4.8,J
+1978,Crystal Harris,Plumbing,Advanced,Available,Healthy,7,8.4,NULL
+1979,Christina Spencer,Painting,Beginner,Available,Minor Issues,4,2.56,NULL
+1981,Nicole Mckinney,Landscaping,Advanced,Available,Major Issues,9,5.4,NULL
+1983,Jasmine Stewart,Heavy Machinery Operation,Beginner,Available,Healthy,1,0.8,H
+1984,Shelly Morales,Carpentry,Beginner,Available,Healthy,4,3.2,I
+1986,Ryan Ware,Plumbing,Intermediate,Available,Major Issues,2,1.0,NULL
+1987,Tyler Thompson,Carpentry,Intermediate,Available,Healthy,4,4.0,NULL
+1989,Ricky Frederick,Roofing,Beginner,Available,Major Issues,8,3.2,H
+1990,Alicia Carr,Electrical,Advanced,Available,Major Issues,7,4.2,A
+1991,Joseph Aguirre,Flooring,Intermediate,Available,Healthy,5,5.0,NULL
+1992,Jasmine Ellis,Landscaping,Intermediate,Available,Healthy,10,10.0,B
+1993,Jay Silva,Roofing,Advanced,Available,Major Issues,9,5.4,NULL
+1994,Brandon Boyd,Heavy Machinery Operation,Intermediate,Available,Minor Issues,8,6.4,H
+1997,John Krueger,HVAC,Advanced,Available,Major Issues,1,0.6,G
+1998,Teresa White,Plumbing,Beginner,Available,Minor Issues,3,1.92,A
+2000,Mason Jackson,Plumbing,Intermediate,Available,Healthy,6,6.0,B
