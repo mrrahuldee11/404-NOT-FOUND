@@ -1,30 +1,39 @@
 "use client";
-import React, { useEffect, useState } from "react";
-import Synchronize from "ol-ext/interaction/Synchronize";
-import Map1 from "@/components/Map";
+import MapComponent from "@/components/MapComponent";
+import {
+  SimpleGrid,
+  Skeleton,
+  Container,
+  Stack,
+  useMantineTheme,
+  px,
+} from "@mantine/core";
+import { useFullscreen } from "@mantine/hooks";
 
-function page() {
-  const [map1Object, setMap1Object] = useState(null);
+const getChild = (height) => (
+  <Skeleton height={height} radius="md" animate={false} />
+);
+const BASE_HEIGHT = 700;
+const getSubHeight = (children, spacing) =>
+  BASE_HEIGHT / children - spacing * ((children - 1) / children);
 
-  useEffect(() => {
-    if (!map1Object) return;
-
-    // Define the synchronization interaction for map1Object
-    const synchronizeInteraction = new Synchronize({ maps: [map1Object] });
-    map1Object.addInteraction(synchronizeInteraction);
-
-    // Cleanup function
-    return () => {
-      if (map1Object) map1Object.removeInteraction(synchronizeInteraction);
-    };
-  }, [map1Object]);
-
+export default function page() {
+  const theme = useMantineTheme();
   return (
-    <div>
-      {/* <Map1 setMap1Object={setMap1Object} /> */}
-      <Map1 setMap1Object={setMap1Object} />
-    </div>
+    <Container my="md">
+      <SimpleGrid cols={{ base: 1, xs: 4 }}>
+        {getChild(BASE_HEIGHT)}
+        <Stack>
+          <MapComponent/>
+          {getChild(getSubHeight(2, px(theme.spacing.md)))}
+        </Stack>
+        <Stack>
+          {getChild(getSubHeight(3, px(theme.spacing.md)))}
+          {getChild(getSubHeight(3, px(theme.spacing.md)))}
+          {getChild(getSubHeight(3, px(theme.spacing.md)))}
+        </Stack>
+        {getChild(BASE_HEIGHT)}
+      </SimpleGrid>
+    </Container>
   );
 }
-
-export default page;
